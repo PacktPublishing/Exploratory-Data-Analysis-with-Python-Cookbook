@@ -1,0 +1,925 @@
+"","Address","Zip","Price","Area","Room","Lon","Lat"
+"1","Blasiusstraat 8 2, Amsterdam","1091 CR",685000,64,3,4.907736,52.356157
+"2","Kromme Leimuidenstraat 13 H, Amsterdam","1059 EL",475000,60,3,4.850476,52.348586
+"3","Zaaiersweg 11 A, Amsterdam","1097 SM",850000,109,4,4.944774,52.343782
+"4","Tenerifestraat 40, Amsterdam","1060 TH",580000,128,6,4.789928,52.343712
+"5","Winterjanpad 21, Amsterdam","1036 KN",720000,138,5,4.902503,52.410538
+"6","De Wittenkade 134 I, Amsterdam","1051 AM",450000,53,2,4.875024,52.382228
+"7","Pruimenstraat 18 B, Amsterdam","1033 KM",450000,87,3,4.896536,52.410585
+"8","Da Costakade 32 II, Amsterdam","1053 WL",590000,80,2,4.871555,52.371041
+"9","Postjeskade 41 2, Amsterdam","1058 DG",399000,49,3,4.854671,52.363471
+"10","Van Ostadestraat 193 H, Amsterdam","1073 TM",3e+05,33,2,4.897142,52.353111
+"11","Sloterkade 152 1, Amsterdam","1058 HN",540000,69,3,4.851985,52.351244
+"12","KNSM-laan 609, Amsterdam","1019 LD",539000,88,3,4.942972,52.377442
+"13","Blasiusstraat 17 II, Amsterdam","1091 CK",390000,45,3,4.908173,52.356446
+"14","Amstel 124 B, Amsterdam","1017 AD",575000,70,2,4.897782,52.366928
+"15","Blasiusstraat 50 II, Amsterdam","1091 CT",650000,86,3,4.909361,52.356532
+"16","Suikerpeerpad 39, Amsterdam","1036 KE",475000,105,5,4.900926,52.408311
+"17","Paramaribostraat 122 3, Amsterdam","1058 VP",7e+05,102,6,4.85452,52.36209
+"18","Burgemeester Hogguerstraat 273, Amsterdam","1064 CP",325000,78,3,4.829644,52.372068
+"19","Anna Blamansingel 274 VII, Amsterdam","1102 SX",399000,100,3,4.949572,52.317294
+"20","Oostzaanstraat 271, Amsterdam","1013 WJ",375000,52,3,4.872555,52.392426
+"21","Keizersgracht 171 F, Amsterdam","1016 DP",1625000,199,6,4.88583,52.374742
+"22","Cornelis Troostplein 2 2, Amsterdam","1072 JK",575000,71,3,4.891161,52.351082
+"23","Thorn Prikkerstraat 93, Amsterdam","1062 BS",6e+05,114,4,4.837666,52.362011
+"24","Kramatweg 58 A, Amsterdam","1095 JX",525000,75,3,4.945438,52.361355
+"25","Bramzeilhof 56, Amsterdam","1034 LH",350000,110,5,4.921574,52.408269
+"26","Bruinvisstraat 36, Amsterdam","1035 HG",350000,89,3,4.88516,52.423543
+"27","Arent Janszoon Ernststraat 41, Amsterdam","1083 GP",575000,134,5,4.887858,52.332103
+"28","Willem de Zwijgerlaan 115 II, Amsterdam","1056 JJ",375000,51,3,4.862875,52.373735
+"29","Colenbranderhof 30, Amsterdam","1065 BG",1650000,235,7,4.820848,52.358631
+"30","Dusartstraat 33 2, Amsterdam","1072 HN",325000,37,2,4.889539,52.351732
+"31","Churchill-laan 37 A, Amsterdam","1078 DE",8e+05,98,3,4.900342,52.346366
+"32","Prinseneiland 545, Amsterdam","1013 EC",1950000,258,4,4.887444,52.385346
+"33","Van Tuyll van Serooskerkenweg 86 H, Amsterdam","1076 JP",735000,83,3,4.86109,52.344643
+"34","Vondelstraat 51 hs, Amsterdam","1054 GJ",3925000,319,7,4.875471,52.361571
+"35","Kinkerstraat 215 D, Amsterdam","1053 DS",475000,74,3,4.865792,52.365372
+"36","Oldengaarde 116, Amsterdam","1083 TL",275000,31,2,4.883566,52.330963
+"37","Rustenburgerstraat 154 2, Amsterdam","1073 GJ",375000,47,2,4.899509,52.352717
+"38","J.J. Cremerplein 24 II, Amsterdam","1054 TL",570000,63,3,4.85856,52.359929
+"39","Oostenburgergracht 41 A, Amsterdam","1018 NB",375000,43,2,4.921855,52.368922
+"40","C.J.K. van Aalststraat 94 PP, Amsterdam","1019 JX",895000,163,6,4.93704,52.373016
+"41","John Franklinstraat 38 3, Amsterdam","1056 TD",365000,49,3,4.854277,52.371899
+"42","Potgieterstraat 23 IV, Amsterdam","1053 XP",550000,62,3,4.874257,52.369627
+"43","Wamelstraat 76, Amsterdam","1106 DM",325000,91,4,4.987296,52.300656
+"44","Nieuwe Prinsengracht 48 G, Amsterdam","1018 VS",429000,50,3,4.907585,52.363609
+"45","Commelinstraat 9 H, Amsterdam","1093 TE",650000,120,4,4.924306,52.36344
+"46","Orteliusstraat 309 I, Amsterdam","1056 NZ",350000,55,3,4.847389,52.373198
+"47","Tweede Ceramstraat 10, Amsterdam","1095 BN",475000,79,3,4.942841,52.362693
+"48","1e Kekerstraat 77 PP, Amsterdam","1104 VA",325000,99,3,4.981149,52.314
+"49","Rietveld Schröderpad 15, Amsterdam","1064 WX",425000,82,3,4.83186,52.364372
+"50","Beemsterstraat 98, Amsterdam","1024 BG",350000,77,4,4.948371,52.392858
+"51","Postjesweg 341, Amsterdam","1062 JS",350000,81,3,4.837764,52.363887
+"52","Eastonstraat 86, Amsterdam","1068 JC",375000,93,4,4.815101,52.356914
+"53","Adrichemstraat 15, Amsterdam","1013 DR",450000,73,3,4.877698,52.388468
+"54","Vijzelstraat 91, Amsterdam","1017 HH",1185000,160,5,4.892374,52.363383
+"55","IJdoornlaan 1449 F, Amsterdam","1034 BM",385000,74,3,4.91913,52.406915
+"56","Amstelveenseweg 184 III, Amsterdam","1075 XR",687500,86,4,4.855875,52.352448
+"57","Zuideinde 387 D, Amsterdam","1035 PE",585000,52,4,4.891858,52.42145
+"58","Amstel 13, Amsterdam","1011 PT",1295000,145,5,4.89952,52.367261
+"59","Egidiusstraat 42 3, Amsterdam","1055 GW",375000,61,3,4.851777,52.379483
+"60","Zeeburgerdijk 578, Amsterdam","1095 AN",5e+05,86,4,4.944196,52.366168
+"61","Groetstraat 201, Amsterdam","1024 VE",3e+05,78,4,4.951093,52.393956
+"62","Jan Haringstraat 32 I, Amsterdam","1056 XJ",375000,52,4,4.86106,52.376873
+"63","Crynssenstraat 74 2, Amsterdam","1058 XZ",4e+05,51,2,4.85633,52.36355
+"64","Churchill-laan 254 3, Amsterdam","1078 EZ",850000,117,5,4.889851,52.347518
+"65","Overtoom 502 I, Amsterdam","1054 KJ",550000,72,3,4.859628,52.359026
+"66","Wieringerwaardstraat 226, Amsterdam","1024 HM",275000,56,2,4.959199,52.395846
+"67","Wiltzanghlaan 31 I, Amsterdam","1055 KE",330000,54,3,4.848563,52.381715
+"68","Faas Wilkesstraat 321 PP, Amsterdam","1095 MD",7e+05,102,3,4.969203,52.372762
+"69","Fahrenheitsingel 17, Amsterdam","1097 NR",5e+05,72,2,4.922788,52.342942
+"70","Bankastraat 39 D, Amsterdam","1094 EB",369000,47,3,4.933378,52.364949
+"71","Toutenburgstraat 75, Amsterdam","1107 PW",245000,68,3,4.9688878,52.2923239
+"72","Vegastraat 97, Amsterdam","1033 HR",350000,65,4,4.885364,52.412066
+"73","Hofwijckstraat 22 III, Amsterdam","1055 GG",425000,69,3,4.850643,52.379711
+"74","Falckstraat 47 A, Amsterdam","1017 VV",NA,147,3,4.897454,52.360707
+"75","Sam van Houtenstraat 191 C, Amsterdam","1067 JG",375000,94,4,4.800745,52.379133
+"76","Het Hoogt 180, Amsterdam","1025 HE",335000,92,4,4.936896,52.394478
+"77","Van Hilligaertstraat 32 C, Amsterdam","1072 KA",450000,56,3,4.888332,52.349498
+"78","Wethouder Wierdelsstraat 6, Amsterdam","1107 DK",395000,101,5,4.993551,52.292948
+"79","Van Houweningenstraat 66 2, Amsterdam","1052 TR",3e+05,45,2,4.87065,52.37314
+"80","Ternatestraat 174, Amsterdam","1095 RZ",450000,84,3,4.944032,52.365457
+"81","Hudsonstraat 55 hs, Amsterdam","1057 RX",415000,51,2,4.853803,52.366082
+"82","Maarten Jansz. Kosterstraat 10, Amsterdam","1017 VX",650000,67,4,4.901713,52.360545
+"83","Spaarndammerplantsoen 20, Amsterdam","1013 XT",425000,52,2,4.876149,52.390376
+"84","Driehoekstraat 72, Amsterdam","1015 GL",469000,67,2,4.882743,52.382746
+"85","Admiraliteitstraat 48, Amsterdam","1018 KP",485000,73,4,4.924634,52.368555
+"86","Willem de Zwijgerlaan 334 E15, Amsterdam","1055 RD",225000,32,1,4.860857,52.380834
+"87","De Wittenkade 23 2V, Amsterdam","1052 AA",285000,29,2,4.880046,52.384661
+"88","Keizersgracht 343 F, Amsterdam","1016 EH",995000,97,2,4.884982,52.369202
+"89","Geschutswerf 81, Amsterdam","1018 AW",1475000,220,5,4.920481,52.366984
+"90","Bilderdijkkade 22 IV, Amsterdam","1053 VC",475000,60,3,4.868057,52.370073
+"91","Jan Mankesstraat 13 hs, Amsterdam","1061 SR",475000,124,5,4.837522,52.364821
+"92","Sassenheimstraat 30 1, Amsterdam","1059 BH",395000,56,2,4.848779,52.348138
+"93","Oudezijds Voorburgwal 161 E, Amsterdam","1012 ET",375000,47,2,4.896579,52.372127
+"94","Amstelveenseweg 186 4A, Amsterdam","1075 XR",4e+05,37,2,4.855832,52.352385
+"95","Nova Zemblastraat 544, Amsterdam","1013 RP",325000,42,2,4.879081,52.390874
+"96","Achillesstraat 113 2, Amsterdam","1076 RA",4e+05,53,3,4.864958,52.343986
+"97","Parnassusweg 151, Amsterdam","1077 DE",475000,80,3,4.868693,52.343328
+"98","Lamarckhof 11 I, Amsterdam","1098 TK",425000,68,3,4.944251,52.352317
+"99","Cornelis van Vollenhovenstraat 4 B, Amsterdam","1063 KS",375000,101,3,4.819711,52.379837
+"100","Van Boetzelaerstraat 73 II, Amsterdam","1051 EA",365000,47,2,4.871178,52.382031
+"101","Pretoriusstraat 11 II, Amsterdam","1092 EW",5e+05,67,3,4.926673,52.356043
+"102","Wittgensteinlaan 137, Amsterdam","1062 KC",450000,92,3,4.835487,52.353658
+"103","Prinsengracht 201 E, Amsterdam","1015 DT",725000,95,3,4.886006,52.377377
+"104","Westeinde 16, Amsterdam","1017 ZP",4550000,497,13,4.89862,52.358798
+"105","Groenhoven 453, Amsterdam","1103 LN",225000,52,2,4.976804,52.325544
+"106","Reinier Claeszenstraat 74 3, Amsterdam","1056 WR",375000,55,3,4.862201,52.373597
+"107","Waterkeringweg 49, Amsterdam","1051 NX",495000,74,3,4.867549,52.384604
+"108","Lange Leidsedwarsstraat 95 C, Amsterdam","1017 NH",475000,58,3,4.885902,52.363158
+"109","Lange Leidsedwarsstraat 32 B, Amsterdam","1017 NL",450000,53,2,4.882472,52.365273
+"110","Vrijheidslaan 14 I, Amsterdam","1078 PJ",475000,66,3,4.910224,52.347296
+"111","Heemstedestraat 10 I, Amsterdam","1058 NM",475000,62,3,4.848941,52.351734
+"112","Veldzicht 85, Amsterdam","1068 SM",345000,61,3,4.798199,52.362969
+"113","Rijswijkstraat 69, Amsterdam","1062 ER",369000,78,3,4.841525,52.35007
+"114","Steenderenstraat 74, Amsterdam","1107 LD",320000,91,4,4.983191,52.294198
+"115","Sijsjesstraat 12, Amsterdam","1021 CW",465000,66,3,4.917899,52.386198
+"116","Oudezijds Voorburgwal 93 B, Amsterdam","1012 EL",340000,35,2,4.898311,52.373509
+"117","Mijehof 285, Amsterdam","1106 HH",375000,111,5,4.970987,52.301346
+"118","Blasiusstraat 63 2, Amsterdam","1091 CL",595000,93,3,4.910003,52.356903
+"119","Dirk Vreekenstraat 72, Amsterdam","1019 GD",525000,92,3,4.936101,52.371484
+"120","Langswater 278, Amsterdam","1069 EC",245000,61,3,4.789682,52.355404
+"121","Jisperveldstraat 371, Amsterdam","1024 AS",275000,85,4,4.95037,52.399252
+"122","Funenpark 316, Amsterdam","1018 AK",575000,72,2,4.931839,52.369014
+"123","Tielstraat 53, Amsterdam","1107 RA",250000,70,3,4.968806,52.291803
+"124","Panamakade 66, Amsterdam","1019 AX",975000,165,5,4.946186,52.373257
+"125","Van Oldenbarneveldtstraat 22 II, Amsterdam","1052 KB",375000,52,2,4.875248,52.376809
+"126","Amstelvlietstraat 193, Amsterdam","1096 GG",1100000,159,5,4.919919,52.338283
+"127","Haparandaweg 750, Amsterdam","1013 BD",750000,102,3,4.877406,52.394832
+"128","Prins Hendrikkade 510 K, Amsterdam","1011 TE",439000,55,3,4.90487,52.374978
+"129","Afrikanerplein 118, Amsterdam","1091 PW",375000,57,2,4.91638,52.352165
+"130","Anne Frankstraat 224, Amsterdam","1011 MP",445000,66,3,4.909207,52.369475
+"131","Alkmaarstraat 277, Amsterdam","1024 TR",325000,77,4,4.947655,52.395417
+"132","Geuzenkade 46 H, Amsterdam","1056 KM",415000,57,2,4.865612,52.373199
+"133","Borgerstraat 29 D, Amsterdam","1053 PA",3e+05,43,2,4.868786,52.365466
+"134","Prinsenstraat 4, Amsterdam","1015 DC",915000,88,5,4.887412,52.377742
+"135","Schotse Hooglanden 4, Amsterdam","1060 NM",685000,183,6,4.7717,52.35337
+"136","Van Spilbergenstraat 69 II, Amsterdam","1057 PZ",350000,50,3,4.85167,52.366405
+"137","Cliostraat 23 HS, Amsterdam","1077 KB",1025000,135,4,4.875881,52.347368
+"138","Windroosplein 96, Amsterdam","1018 ZW",895000,177,4,4.924895,52.373122
+"139","Nachtwachtlaan 345, Amsterdam","1058 EM",350000,59,2,4.84399,52.362946
+"140","Antony Moddermanstraat 178, Amsterdam","1063 LW",265000,65,3,4.81787,52.383684
+"141","Wevelgemstraat 8, Amsterdam","1066 TM",5e+05,100,4,4.802122,52.346011
+"142","Reigersbos 251, Amsterdam","1107 EX",295000,106,4,4.977496,52.295032
+"143","Rubensstraat 26 2, Amsterdam","1077 MR",1175000,159,7,4.873365,52.349164
+"144","Herengracht 193 C, Amsterdam","1016 BE",995000,113,3,4.888199,52.374321
+"145","Jozef Israëlskade 30 B, Amsterdam","1072 RW",385000,54,2,4.889927,52.348587
+"146","Tollensstraat 321, Amsterdam","1053 RV",550000,89,4,4.870523,52.365141
+"147","Kinkerstraat 326 1, Amsterdam","1053 GD",325000,40,2,4.862992,52.365
+"148","Hogevecht 47, Amsterdam","1102 HB",225000,62,2,4.957403,52.309773
+"149","Van Boshuizenstraat 135, Amsterdam","1083 AT",395000,66,3,4.885793,52.324797
+"150","J.G. Suurhoffstraat 123, Amsterdam","1067 VR",425000,102,4,4.789341,52.380775
+"151","Lijnbaansgracht 188 H, Amsterdam","1016 XA",525000,64,4,4.878779,52.368556
+"152","Ank van der Moerstraat 29, Amsterdam","1065 LH",8e+05,132,6,4.824867,52.35227
+"153","Osdorpplein 57, Amsterdam","1068 EK",4e+05,88,4,4.80651,52.359451
+"154","Wieringerwaardstraat 221, Amsterdam","1024 HL",250000,50,2,4.959052,52.3958
+"155","Van Boetzelaerstraat 40 H, Amsterdam","1051 CW",360000,41,2,4.873624,52.382635
+"156","Faas Wilkesstraat 275, Amsterdam","1095 MD",1050000,154,4,4.968819,52.373001
+"157","IJsselmeerstraat 52, Amsterdam","1024 ML",799000,230,8,4.961381,52.389087
+"158","Utrechtsedwarsstraat 4, Amsterdam","1017 WG",1700000,194,6,4.896542,52.360937
+"159","Neerkanne 7, Amsterdam","1082 BG",825000,178,7,4.870427,52.324201
+"160","Dirk Bonsstraat 18 I, Amsterdam","1063 TZ",290000,50,2,4.834901,52.378363
+"161","Singel 32 G, Amsterdam","1015 AA",469000,50,3,4.893043,52.37844
+"162","Amstel 186 HS, Amsterdam","1017 AG",625000,74,3,4.89965,52.366621
+"163","Nieuwe Prinsengracht 8 3, Amsterdam","1018 XH",1050000,149,8,4.904917,52.362949
+"164","Plejadenplein 1, Amsterdam","1033 VK",540000,79,4,4.88439,52.413734
+"165","Kikkenstein 3534, Amsterdam","1104 TT",285000,96,4,4.972596,52.317512
+"166","Quashibastraat 42 C, Amsterdam","1087 VS",859000,168,3,5.016505,52.350556
+"167","Het Breed 605, Amsterdam","1025 HW",275000,63,2,4.93924,52.396536
+"168","Tjeukemeerhof 14, Amsterdam","1060 PR",525000,153,6,4.778978,52.349265
+"169","Van Mourik Broekmanstraat 12 I, Amsterdam","1065 EX",375000,73,4,4.826759,52.356709
+"170","Vrijzicht 180, Amsterdam","1068 CK",399500,89,2,4.807068,52.362692
+"171","Oeverpad 482, Amsterdam","1068 PM",430000,103,4,4.807703,52.363646
+"172","Ouderkerkerdijk 34, Amsterdam","1096 CR",1300000,141,4,4.904363,52.333206
+"173","Leonard Bernsteinstraat 96 A, Amsterdam","1082 MR",1750000,130,3,4.872151,52.336348
+"174","Westerstraat 268, Amsterdam","1015 MT",950000,109,4,4.879612,52.377871
+"175","Nieuwezijds Voorburgwal 294 1, Amsterdam","1012 RT",1450000,150,3,4.88987,52.370706
+"176","Kleiburg 524, Amsterdam","1104 EA",285000,69,3,4.979002,52.318782
+"177","Willem Leevendstraat 1 1, Amsterdam","1055 KB",3e+05,54,2,4.846858,52.384197
+"178","Amstelveenseweg 970 C, Amsterdam","1081 JR",1500000,166,4,4.857216,52.325762
+"179","Henri Zagwijnstraat 14 3, Amsterdam","1077 XR",685000,107,4,4.868754,52.341846
+"180","Dam 5 V, Amsterdam","1012 JS",4495000,178,5,4.89429,52.373106
+"181","Zuideinde 356, Amsterdam","1035 PP",989000,171,5,4.893261,52.419532
+"182","'t Nopeind 2, Amsterdam","1027 AE",765000,100,4,4.964853,52.409986
+"183","Hillenraadt 46, Amsterdam","1083 AJ",9e+05,159,9,4.886918,52.323885
+"184","Archimedesweg 56, Amsterdam","1098 JR",665000,118,4,4.938738,52.356081
+"185","Huidekoperstraat 24 F, Amsterdam","1017 ZM",2475000,183,4,4.897473,52.358943
+"186","Bos en Lommerweg 360, Amsterdam","1061 DJ",475000,98,4,4.83852,52.379072
+"187","Groetstraat 193, Amsterdam","1024 VE",3e+05,78,4,4.950977,52.393821
+"188","Catharina Boudewijnshof 51, Amsterdam","1064 PE",350000,103,4,4.809689,52.378
+"189","Mauritsstraat 2, Amsterdam","1091 DA",450000,45,2,4.9064,52.358857
+"190","Ringvaartdijk 80, Amsterdam","1066 DJ",6e+05,145,4,4.799931,52.334488
+"191","Joan Melchior Kemperstraat 46 IV, Amsterdam","1051 TS",350000,39,2,4.874462,52.38503
+"192","Nachtwachtlaan 164, Amsterdam","1058 EE",595000,100,3,4.84313,52.359998
+"193","Borgerstraat 202 I, Amsterdam","1053 RD",335000,42,2,4.862224,52.364187
+"194","Gerrit van der Veenstraat 134, Amsterdam","1077 ES",1295000,154,4,4.867645,52.348806
+"195","Pieter de Hoochstraat 25 B, Amsterdam","1071 ED",825000,103,3,4.885645,52.35602
+"196","Keizersgracht 544, Amsterdam","1017 EL",5950000,394,10,4.887378,52.365078
+"197","Leerdamhof 177, Amsterdam","1108 BR",325000,85,4,4.976098,52.308383
+"198","Willem Heselaarsstraat 70, Amsterdam","1069 KA",450000,115,3,4.798695,52.352124
+"199","Singel 463 F., Amsterdam","1012 WP",1450000,125,2,4.891701,52.367182
+"200","Karel Klinkenbergstraat 1 A, Amsterdam","1061 AH",585000,99,3,4.835845,52.366451
+"201","Noordermarkt 32 A, Amsterdam","1015 MZ",1200000,105,4,4.886034,52.379546
+"202","Pieter Cornelisz. Hooftstraat 36 1 2 3, Amsterdam","1071 BZ",1550000,153,5,4.88242,52.360824
+"203","Westerdok 452, Amsterdam","1013 BH",1250000,147,4,4.891955,52.38514
+"204","Herengracht 12 C, Amsterdam","1015 BK",998000,121,2,4.891161,52.378843
+"205","Jan van Riebeekstraat 17 3, Amsterdam","1057 ZW",395000,54,3,4.857567,52.370557
+"206","Keizersgracht 515 R, Amsterdam","1017 DN",935000,85,3,4.8887,52.365003
+"207","Nieuwe Keizersgracht 570 L, Amsterdam","1018 VG",1050000,63,3,4.90885,52.365524
+"208","Geldersekade 52 A, Amsterdam","1012 BJ",729000,110,5,4.90132,52.375059
+"209","Tenerifestraat 8, Amsterdam","1060 TH",699000,130,5,4.788762,52.344183
+"210","Parosstraat 6, Amsterdam","1060 LP",1500000,255,7,4.790343,52.345566
+"211","Diemerzeedijk 76 S, Amsterdam","1087 SM",4e+05,25,2,4.962333,52.362891
+"212","Karel Doormanstraat 138, Amsterdam","1055 VJ",550000,102,4,4.858163,52.379474
+"213","Lijnbaansstraat 7, Amsterdam","1016 ST",950000,133,7,4.644819,52.37806
+"214","Frans van Mierisstraat 47 C, Amsterdam","1071 RK",975000,93,3,4.882903,52.354535
+"215","Nicolaas Anslijnstraat 116, Amsterdam","1068 WT",295000,79,3,4.807977,52.357443
+"216","Jan van Duivenvoordestraat 10 II, Amsterdam","1067 XN",350000,71,4,4.803337,52.378625
+"217","Ouderkerkerdijk 42, Amsterdam","1096 CR",685000,110,4,4.901539,52.333097
+"218","Baarsjesweg 313 H, Amsterdam","1058 AH",1499000,245,8,4.854662,52.358204
+"219","Prinsengracht 416 A, Amsterdam","1016 JC",1275000,165,5,4.882122,52.366395
+"220","Lange Leidsedwarsstraat 103 1 A, Amsterdam","1017 NJ",375000,38,1,4.886109,52.363042
+"221","Herengracht 116 F+K, Amsterdam","1015 BT",1595000,199,6,4.888459,52.375994
+"222","Entrepotdok 85 A, Amsterdam","1018 AD",439000,48,2,4.917931,52.367418
+"223","Chasséstraat 21 III, Amsterdam","1057 HW",785000,95,5,4.861607,52.367915
+"224","Fazantenweg 15 1, Amsterdam","1021 HJ",395000,68,3,4.920126,52.388122
+"225","Droogbak 5 B, Amsterdam","1013 GE",595000,78,3,4.893924,52.379828
+"226","Nieuwe Uilenburgerstraat 9 F, Amsterdam","1011 LM",875000,117,3,4.906839,52.371272
+"227","Beulingstraat 13 D, Amsterdam","1017 BA",295000,29,2,4.887596,52.367946
+"228","Kiefskamp 24, Amsterdam","1082 KA",520000,80,2,4.872336,52.33033
+"229","Herculesstraat 60 B, Amsterdam","1076 SP",439000,57,3,4.862129,52.347398
+"230","Tweede Oosterparkstraat 188 2, Amsterdam","1092 BT",410000,66,4,4.920472,52.357987
+"231","Marnixstraat 237 E, Amsterdam","1015 WE",275000,23,1,4.877725,52.376041
+"232","Nieuwe Leliestraat 11, Amsterdam","1015 SH",2450000,259,8,4.883278,52.375756
+"233","Van Boetzelaerstraat 36 1, Amsterdam","1051 CW",350000,45,2,4.873726,52.382654
+"234","Weesperzijde 114 huis, Amsterdam","1091 EN",1795000,158,6,4.912109,52.350755
+"235","Brouwersgracht 187 G, Amsterdam","1015 GJ",835000,120,5,4.88447,52.382635
+"236","Wijdesteeg 62, Amsterdam","1012 RN",985000,111,5,4.890089,52.371683
+"237","Van der Hoopstraat 33 A2, Amsterdam","1051 VB",425000,56,2,4.943696,52.338795
+"238","Prins Hendrikkade 156 2, Amsterdam","1011 AW",635000,58,3,4.907085,52.372907
+"239","Willem Frederik Hermansstraat 169 PP, Amsterdam","1011 DG",999500,151,3,4.907627,52.376281
+"240","Stadhouderskade 16 H, Amsterdam","1054 ES",1050000,151,4,4.880571,52.362038
+"241","Langswater 198, Amsterdam","1069 TS",225000,60,3,4.790457,52.35459
+"242","Cliostraat 35 1, Amsterdam","1077 KC",1099000,165,5,4.875455,52.347348
+"243","Pieter de Hoochstraat 25 B +PP, Amsterdam","1071 ED",895000,103,3,4.885645,52.35602
+"244","Uilengouw 2, Amsterdam","1027 EZ",899000,258,1,4.967897,52.410672
+"245","Argonautenstraat 98, Amsterdam","1076 KV",799000,146,5,4.858845,52.343402
+"246","Kortrijk 50, Amsterdam","1066 TC",719000,129,4,4.802093,52.343737
+"247","Haarlemmerstraat 98 B, Amsterdam","1013 EW",750000,119,6,4.890977,52.380642
+"248","Laan van Vlaanderen 141 A2*, Amsterdam","1066 MP",285000,37,2,4.807805,52.344914
+"249","Laan van Vlaanderen 141 A2, Amsterdam","1066 MP",285000,37,2,4.807805,52.344914
+"250","Keizersgracht 131 E, Amsterdam","1015 CJ",9e+05,111,2,4.887092,52.376105
+"251","Fritz Dietrich Kahlenbergstraat 83, Amsterdam","1087 LL",475000,93,3,5.009767,52.349453
+"252","Gerda Brautigamstraat 37, Amsterdam","1067 VM",545000,110,4,4.789083,52.379219
+"253","Van Oldenbarneveldtstraat 96 A3, Amsterdam","1052 KH",685000,94,3,4.873591,52.374016
+"254","Valeriusstraat 137 H, Amsterdam","1075 ET",2200000,198,7,4.865847,52.353256
+"255","Bakkersstraat 11, Amsterdam","1017 CW",650000,81,3,4.897432,52.366729
+"256","Klaprozenweg 73 A, Amsterdam","1032 KK",1100011,207,5,4.90048,52.400948
+"257","Zocherstraat 23 X, Amsterdam","1054 LR",1200000,81,3,4.858004,52.3574
+"258","Dorpsstraat Holysloot 62, Amsterdam","1028 BE",1495000,214,5,5.029122,52.41355
+"259","Willem de Zwijgerlaan 334 c29, Amsterdam","1055 RD",295000,47,2,4.860857,52.380834
+"260","Kalverstraat 218 G+2PP, Amsterdam","1012 XJ",1e+06,117,4,4.892522,52.367449
+"261","Singel 115 B, Amsterdam","1012 VH",1150000,162,5,4.890591,52.375342
+"262","Plantage Muidergracht 105 A, Amsterdam","1018 TP",2250000,250,8,4.915246,52.364132
+"263","Ruysdaelkade 107, Amsterdam","1072 AN",1350000,173,5,4.887183,52.355065
+"264","Ruysdaelkade 109, Amsterdam","1072 AN",1650000,232,9,4.887183,52.35502
+"265","Olympiakade 12, Amsterdam","1076 XP",2750000,309,8,4.862413,52.349528
+"266","Cornelis Zillesenlaan 94, Amsterdam","1086 ZK",1050000,216,7,4.979483,52.361333
+"267","Binnenkant 2, Amsterdam","1011 BG",469000,90,3,4.903526,52.374705
+"268","Zuideinde 417, Amsterdam","1035 PG",669000,107,5,4.89278,52.420465
+"269","Leerdamhof 294, Amsterdam","1108 CA",3e+05,71,2,4.976454,52.306326
+"270","Hertspieghelweg 26 huis, Amsterdam","1055 KM",425000,49,2,4.852468,52.380663
+"271","Cas Oorthuyskade 47, Amsterdam","1087 DP",749000,150,5,4.90981909560303,52.3686532505277
+"272","Eurokade 36, Amsterdam","1060 RZ",7e+05,186,8,4.786024,52.348087
+"273","Prins Hendrikkade 512, Amsterdam","1011 TE",389000,30,2,4.906059,52.374085
+"274","Osdorperweg 94, Amsterdam","1066 EM",9e+05,187,6,4.797164,52.343623
+"275","Borneokade 70, Amsterdam","1019 AW",1750000,246,8,4.90981909560303,52.3686532505277
+"276","Barbusselaan 77, Amsterdam","1102 TS",275000,85,4,4.943931,52.321174
+"277","Sophialaan 45, Amsterdam","1075 BM",3500000,374,7,4.857608,52.352366
+"278","Duke Ellingtonstraat 46, Amsterdam","1066 GE",4e+05,79,3,4.826718,52.343893
+"279","Insulindeweg 116, Amsterdam","1094 PT",850000,110,2,4.936223,52.360906
+"280","Raphaëlstraat 5, Amsterdam","1077 PN",1700000,203,5,4.869966,52.349904
+"281","Amstel 102, Amsterdam","1017 AD",2325000,150,6,4.896842,52.366965
+"282","Singel 436 G, Amsterdam","1017 AV",1495000,175,6,4.888094,52.368029
+"283","Levantkade 170, Amsterdam","1019 BG",549000,91,5,4.943456,52.376191
+"284","Vossiusstraat 6 C, Amsterdam","1071 AB",1375000,115,3,4.881814,52.361226
+"285","Bloemgracht 81 6, Amsterdam","1016 KH",1250000,165,7,4.879978,52.374421
+"286","Brouwersgracht 182 I, Amsterdam","1013 HC",5e+05,72,2,4.887619,52.381092
+"287","Marskramerstraat 124, Amsterdam","1033 WG",575000,183,5,4.881542,52.41986
+"288","Huidekoperstraat 24 F, Amsterdam","1017 ZM",2475000,183,3,4.897473,52.358943
+"289","Prins Hendrikkade 132 A, Amsterdam","1011 AR",1425000,257,4,4.905372,52.373727
+"290","Pieter Cornelisz. Hooftstraat 169 B, Amsterdam","1071 BW",1695000,117,3,4.876144,52.358928
+"291","Ladogameerhof 3, Amsterdam","1060 PJ",515000,130,4,4.7836987,52.3496214
+"292","George Gershwinlaan 177, Amsterdam","1082 MT",1095000,134,3,4.872859,52.335851
+"293","Vossiusstraat 71, Amsterdam","1071 AK",2500000,202,6,4.876117,52.359763
+"294","Dijkwater 189, Amsterdam","1025 CW",519900,120,5,4.937065,52.400905
+"295","Amstel 75 F, Amsterdam","1018 EK",7e+05,88,5,4.902826,52.363883
+"296","Tweede Jan van der Heijdenstraat 13, Amsterdam","1073 VE",2650000,387,10,4.89935,52.355179
+"297","Churchill-laan 216 3, Amsterdam","1078 EW",1149000,141,6,4.891921,52.347409
+"298","Hogevecht 186 B, Amsterdam","1102 HJ",280000,93,4,4.95868,52.309724
+"299","Valkenburgerstraat 138 A, Amsterdam","1011 NA",6e+05,129,4,4.905853,52.369804
+"300","Pontsteiger 137, Amsterdam","1014 ZP",950000,94,1,4.886388,52.393577
+"301","Nieuwe Nieuwstraat 28, Amsterdam","1012 NH",849000,120,3,4.893709,52.375387
+"302","Badhuiskade 353, Amsterdam","1031 KV",3680000,374,4,4.905695,52.385321
+"303","Witte de Withstraat 20 AH, Amsterdam","1057 XW",850000,149,7,4.859626,52.365326
+"304","Mauvestraat 56 II+III, Amsterdam","1073 RN",750750,114,4,4.902864,52.349279
+"305","Oudezijds Voorburgwal 126 A+B, Amsterdam","1012 GH",1400000,213,7,4.897256,52.373343
+"306","Singel 318, Amsterdam","1016 AE",4900000,623,13,4.887869,52.371039
+"307","Termietergouw 6 A, Amsterdam","1027 AD",899000,128,5,4.960756,52.409584
+"308","Termietergouw 6, Amsterdam","1027 AD",895000,95,3,4.960756,52.409584
+"309","Broekergouw 4, Amsterdam","1027 AH",1695000,467,14,4.97083,52.412038
+"310","Cliostraat 12 III, Amsterdam","1077 KG",1085000,131,5,4.876231,52.347558
+"311","Ward Bingleystraat 1, Amsterdam","1065 TJ",3e+05,30,3,4.832087,52.354406
+"312","Rapenburgerplein 8 A, Amsterdam","1011 VB",649000,82,3,4.910725,52.370289
+"313","Rapenburgerplein 8 B, Amsterdam","1011 VB",785000,105,5,4.910725,52.370289
+"314","Willem Mollhof 3, Amsterdam","1065 AH",565000,94,3,4.825673,52.361323
+"315","De Bleeckster 1, Amsterdam","1035 RW",1395000,133,3,4.898884,52.418864
+"316","Prinsengracht 460 A, Amsterdam","1017 KE",795000,102,3,4.884579,52.364626
+"317","Eerste Looiersdwarsstraat 24 E, Amsterdam","1016 VM",1200000,121,4,4.881097,52.368746
+"318","Herengracht 553 I, Amsterdam","1017 BW",995000,146,3,4.895233,52.365084
+"319","Prinsengracht 1031 C, Amsterdam","1017 KP",775000,127,3,4.895121,52.361947
+"320","Prinsengracht 1035 D, Amsterdam","1017 KP",825000,148,3,4.895224,52.361929
+"321","Uilengouw 2, Amsterdam","1027 EZ",1249000,258,5,4.967897,52.410672
+"322","Haarlemmerweg 705, Amsterdam","1067 HP",NA,366,12,4.787874,52.383877
+"323","Pieter van der Werfstraat 44, Amsterdam","1067 EP",380000,100,4,4.80256,52.380679
+"324","Claus van Amsbergstraat 45, Amsterdam","1102 AZ",450000,120,5,4.956167,52.317822
+"325","Sumatrakade 1523, Amsterdam","1019 RS",399000,66,2,4.923315,52.379524
+"326","Marnixstraat 255 H, Amsterdam","1015 WH",650000,102,3,4.877436,52.375551
+"327","Oostakkerstraat 95, Amsterdam","1066 HR",485000,109,1,4.817309,52.345051
+"328","Eerste Helmersstraat 183 III, Amsterdam","1054 DT",1599000,139,5,4.868596,52.361672
+"329","Noorderakerweg 124, Amsterdam","1069 LW",950000,226,7,4.776234,52.349215
+"330","Ringvaartdijk 28, Amsterdam","1066 DE",629000,127,4,4.794478,52.338652
+"331","Schellingwouderdijk 352 e, Amsterdam","1023 NM",359000,69,4,4.965813,52.381514
+"332","Zeeburgerdijk 585, Amsterdam","1095 AE",419000,75,4,4.952089,52.36658
+"333","Bernard Shawsingel 250, Amsterdam","1102 VE",250000,60,3,4.945909,52.320409
+"334","Reigersbos 79, Amsterdam","1106 AP",320000,104,5,4.976237,52.296421
+"335","Singel 146 A, Amsterdam","1015 AG",3500000,348,8,4.889816,52.375532
+"336","Clara Zetkinstraat 58, Amsterdam","1103 DH",415000,115,4,4.961952,52.321743
+"337","Sarphatistraat 478, Amsterdam","1018 GW",750000,124,5,4.918831,52.363292
+"338","Rupelmonde 10, Amsterdam","1081 GP",420000,73,3,4.859128,52.327841
+"339","Westerdoksdijk 375, Amsterdam","1013 AD",525000,63,3,4.892914,52.384794
+"340","Cor van Weelehof 3, Amsterdam","1087 GL",550000,107,4,4.997979,52.354825
+"341","Linnaeusstraat 243 1., Amsterdam","1093 ER",450000,60,4,4.928173,52.355788
+"342","Herculesstraat 124 I, Amsterdam","1076 ST",425000,54,3,4.861234,52.346145
+"343","Akoleienstraat 8 4, Amsterdam","1016 LN",699000,108,6,4.878139,52.373119
+"344","Amsteldijk 64, Amsterdam","1074 HZ",675000,95,3,4.906809,52.353645
+"345","Hoofdweg 34 H, Amsterdam","1058 BD",1150000,150,5,4.853623,52.360284
+"346","Wiborgeiland 146 PP, Amsterdam","1014 ZC",1250000,131,4,4.878356,52.394101
+"347","Wiborgeiland 147 PP, Amsterdam","1014 ZC",1450000,158,4,4.878463,52.394178
+"348","Nieuwevaart 10 4V, Amsterdam","1018 AA",240000,26,1,4.913448,52.370666
+"349","Klaas Katerstraat 118, Amsterdam","1069 RT",345000,80,3,4.795934,52.350007
+"350","Rozenstraat 80 E, Amsterdam","1016 NX",425000,56,3,4.880816,52.37278
+"351","Charlotte Brontéstraat 152, Amsterdam","1102 XH",250000,60,2,4.947171,52.325081
+"352","Vrolikstraat 292 1, Amsterdam","1092 VA",485000,59,3,4.925675,52.358255
+"353","Overtoom 184 III, Amsterdam","1054 HR",1200000,166,5,4.872275,52.362146
+"354","Johan Huizingalaan 310 I, Amsterdam","1065 JN",325000,71,4,4.827036,52.353376
+"355","Blauwvoetstraat 59, Amsterdam","1061 BM",275000,39,2,4.839165,52.37701
+"356","Dikninge 105, Amsterdam","1083 VA",365000,78,3,4.886519,52.331919
+"357","Wethouder In 't Veldstraat 77, Amsterdam","1107 AX",3e+05,84,4,4.991578,52.293948
+"358","Amaliastraat 16 H, Amsterdam","1052 GP",485000,67,3,4.874335,52.379574
+"359","Marnixkade 26 III, Amsterdam","1015 XP",725000,87,4,4.881073,52.382434
+"360","Pieter Calandlaan 724, Amsterdam","1060 TX",325000,87,3,4.788052,52.349876
+"361","Barbusselaan 261, Amsterdam","1102 TV",225000,61,3,4.945309,52.319741
+"362","Revaleiland 383, Amsterdam","1014 ZG",690000,100,3,4.881116,52.393955
+"363","Marnixkade 89 1A, Amsterdam","1015 ZH",250000,28,1,4.877315,52.376658
+"364","Kanaalstraat 11 3/4, Amsterdam","1054 WX",825000,114,3,4.866454,52.362822
+"365","Groenhoven 358, Amsterdam","1103 LK",239000,53,3,4.977675,52.324231
+"366","Bilderdijkstraat 180 II, Amsterdam","1053 LD",4e+05,49,2,4.872222,52.366766
+"367","Warmondstraat 176 2, Amsterdam","1058 LB",430000,58,3,4.849307,52.35303
+"368","Linnaeusparkweg 224 HS, Amsterdam","1098 ER",485000,65,3,4.940682,52.349698
+"369","Hoofdweg 241 III, Amsterdam","1057 CW",3e+05,44,2,4.85225,52.367037
+"370","Roelof Hartstraat 13 II, Amsterdam","1071 VE",550000,61,3,4.884848,52.352502
+"371","Marcantilaan 123, Amsterdam","1051 LW",325000,41,2,4.867459,52.375562
+"372","Bilderdijkstraat 201 2, Amsterdam","1053 KS",250000,29,2,4.872989,52.366428
+"373","Orteliusstraat 279 3, Amsterdam","1056 NV",675000,109,3,4.8479,52.372221
+"374","Baden Powellweg 107, Amsterdam","1069 LD",295000,91,4,4.795401,52.348468
+"375","Waterlandplein 290 E, Amsterdam","1024 NB",350000,92,3,4.954434,52.393227
+"376","Wethouder Ramstraat 11, Amsterdam","1107 CM",375000,98,5,4.990488,52.292974
+"377","Willem de Zwijgerlaan 309 I, Amsterdam","1055 PZ",360000,53,2,4.860817,52.380045
+"378","Cosmariumstraat 9, Amsterdam","1035 VS",325000,85,4,4.901357,52.419916
+"379","Antony Moddermanstraat 222 HS, Amsterdam","1063 NA",250000,61,2,4.812509,52.383676
+"380","Insulindeweg 920, Amsterdam","1095 DX",550000,102,3,4.945592,52.362164
+"381","Loggerhof 149, Amsterdam","1034 CG",325000,76,3,4.910084,52.406722
+"382","Bataviastraat 67 C, Amsterdam","1095 EP",235000,26,2,4.944758,52.36173
+"383","Kuipersstraat 43 2, Amsterdam","1074 EE",450000,56,2,4.904866,52.354123
+"384","Poederooienstraat 97, Amsterdam","1106 CG",245000,71,3,4.98042,52.299114
+"385","Stadionweg 61 2, Amsterdam","1077 SC",1400000,153,4,4.875155,52.346664
+"386","Spadinalaan 53, Amsterdam","1031 KB",650000,90,3,4.900901,52.386904
+"387","Westlandgracht 139 H, Amsterdam","1059 TG",465000,67,3,4.846172,52.351371
+"388","Cliostraat 61 I, Amsterdam","1077 KE",735000,104,3,4.87459,52.347318
+"389","Stadhouderskade 153 A, Amsterdam","1074 BC",675000,93,4,4.902853,52.358348
+"390","Erasmusgracht 552 PP, Amsterdam","1061 BL",425000,78,2,4.837463,52.376658
+"391","Silodam 446, Amsterdam","1013 AW",635000,90,3,4.891367,52.389872
+"392","Bilderdijkstraat 177 2A, Amsterdam","1053 KR",3e+05,35,1,4.872597,52.366735
+"393","Arènpalmstraat 24, Amsterdam","1104 DB",375000,99,4,4.981355,52.320364
+"394","Van Ostadestraat 27 1, Amsterdam","1072 SM",3e+05,35,2,4.888159,52.351789
+"395","Vincent van Goghstraat 19, Amsterdam","1072 KJ",910000,136,5,4.888188,52.3492
+"396","Geervliet 20 A, Amsterdam","1082 NT",385000,65,3,4.87989,52.331729
+"397","Jacob van Lennepstraat 17 I, Amsterdam","1053 HA",775000,93,3,4.875949,52.366908
+"398","Oogststraat 81, Amsterdam","1097 ZS",349500,51,3,4.941752,52.339554
+"399","Egidiusstraat 17 1, Amsterdam","1055 GL",375000,65,3,4.852493,52.377329
+"400","Bentinckstraat 95 3, Amsterdam","1051 GJ",325000,41,2,4.871342,52.383093
+"401","Dickenslaan 146, Amsterdam","1102 ZW",295000,89,4,4.945355,52.323983
+"402","Gibraltarstraat 105 hs, Amsterdam","1055 NM",345000,50,2,4.849011,52.384683
+"403","Ruimzicht 296, Amsterdam","1068 CZ",325000,88,3,4.809676,52.361641
+"404","Stoutenburggracht 11, Amsterdam","1107 KW",245000,73,3,4.98366,52.294299
+"405","Eerste Jan Steenstraat 112 2, Amsterdam","1072 NR",650000,70,3,4.892242,52.354197
+"406","Mercatorstraat 15 III, Amsterdam","1056 PW",450000,56,4,4.850735,52.370868
+"407","Komijnstraat 24, Amsterdam","1104 HP",525000,176,5,4.986145,52.316165
+"408","Nicolaas Anslijnstraat 108, Amsterdam","1068 WT",315000,81,3,4.80824,52.357393
+"409","Aurikelstraat 5, Amsterdam","1032 AP",5e+05,83,4,4.917034,52.395677
+"410","Barentszstraat 205, Amsterdam","1013 NM",285000,36,2,4.887419,52.388788
+"411","Warmoesstraat 139 A, Amsterdam","1012 JB",6e+05,116,4,4.895989,52.373751
+"412","Egelantiersstraat 142 B, Amsterdam","1015 PS",425000,67,3,4.881551,52.376576
+"413","Gouden Leeuw 326, Amsterdam","1103 KG",225000,53,3,4.974337,52.324304
+"414","Antillenstraat 28 2, Amsterdam","1058 HB",440000,59,3,4.85128,52.359788
+"415","Borneolaan 342, Amsterdam","1019 KL",450000,85,3,4.937516,52.370995
+"416","Martin Vlaarkade 97, Amsterdam","1013 CS",425000,75,3,4.8814,52.388529
+"417","Boeninlaan 81, Amsterdam","1102 TH",230000,60,2,4.942778,52.320576
+"418","Czaar Peterstraat 45 B, Amsterdam","1018 PA",395000,69,3,4.927419,52.369015
+"419","Venetiëhof 101, Amsterdam","1019 NC",550000,93,3,4.948159,52.377174
+"420","Sean MacBridestraat 16, Amsterdam","1102 JW",350000,93,3,4.960086,52.318673
+"421","Het Hoogt 166, Amsterdam","1025 HD",335000,92,4,4.936689,52.394567
+"422","Spinaker 219, Amsterdam","1034 MK",3e+05,92,4,4.922975,52.410584
+"423","Papendrechtstraat 84, Amsterdam","1106 BR",270000,84,3,4.976048,52.29785
+"424","C. Kruyswijkstraat 17, Amsterdam","1022 KJ",675000,136,5,4.933513,52.407695
+"425","Van Rappardstraat 41 H, Amsterdam","1051 HX",450000,73,3,4.869487,52.378402
+"426","Kuipersstraat 77 H, Amsterdam","1074 EH",450000,53,2,4.90355,52.353704
+"427","Magnoliastraat 10, Amsterdam","1031 VD",549000,101,4,4.907913,52.388684
+"428","Dalsteindreef 270, Amsterdam","1102 WZ",265000,58,3,4.946436,52.326171
+"429","Elandsgracht 84 2, Amsterdam","1016 TZ",395000,42,2,4.880279,52.369659
+"430","Binnenzagerij 25, Amsterdam","1021 PJ",275000,42,2,4.916345,52.383109
+"431","Jan van Riebeekstraat 3 1, Amsterdam","1057 ZW",4e+05,61,2,4.858697,52.370661
+"432","Fahrenheitsingel 101, Amsterdam","1097 NX",450000,55,2,4.925792,52.344742
+"433","Nieuwezijds Voorburgwal 266 2V, Amsterdam","1012 RS",395000,63,2,4.890125,52.371498
+"434","Van Noordtkade 140, Amsterdam","1013 CA",335000,61,2,4.881952,52.389025
+"435","Von Zesenstraat 225, Amsterdam","1093 DD",425000,82,3,4.925735,52.364335
+"436","Van Bossestraat 32 I, Amsterdam","1051 JZ",325000,35,2,4.868498,52.381319
+"437","Admiraal De Ruijterweg 375 I, Amsterdam","1055 MB",590000,76,4,4.851989,52.381995
+"438","Spaarndammerstraat 62 1, Amsterdam","1013 SZ",345000,48,2,4.880745,52.388005
+"439","Kleine Beerstraat 6, Amsterdam","1033 CR",398011,61,3,4.892619,52.413849
+"440","Entrepotdok 161, Amsterdam","1018 AD",9e+05,128,4,4.921707,52.366234
+"441","Johan Herman Doornstraat 26, Amsterdam","1063 ED",4e+05,78,3,4.832758,52.384105
+"442","Cliostraat 21 II, Amsterdam","1077 KB",825000,100,3,4.875925,52.347368
+"443","Nida Senffstraat 133 PP, Amsterdam","1095 MX",415000,69,3,4.964407,52.373057
+"444","Kuipersstraat 43 HS, Amsterdam","1074 EE",685000,91,4,4.904866,52.354123
+"445","Baffinstraat 13 H, Amsterdam","1057 SV",610000,77,4,4.854361,52.368574
+"446","Werengouw 409, Amsterdam","1024 NZ",295000,59,3,4.946534,52.394352
+"447","Eerste Van Swindenstraat 203, Amsterdam","1093 GB",339000,47,2,4.926678,52.36264
+"448","Oeverpad 221, Amsterdam","1068 PJ",310000,78,3,4.806801,52.364911
+"449","Pieter van der Meulenhof 14, Amsterdam","1106 WV",395000,115,6,4.995049,52.2976
+"450","Madurastraat 64 1, Amsterdam","1094 GR",335000,49,2,4.934237,52.364224
+"451","Burgemeester Cramergracht 67, Amsterdam","1064 AG",275000,64,2,4.832681,52.372996
+"452","Van Gentstraat 6 1, Amsterdam","1055 PE",425000,69,4,4.851176,52.383021
+"453","Groenhoven 864, Amsterdam","1103 NB",225000,54,2,4.975727,52.326205
+"454","Joop Gerritzestraat 14, Amsterdam","1063 EK",5e+05,113,6,4.830151,52.383526
+"455","Kleefkruidstraat 30, Amsterdam","1104 HX",6e+05,159,6,4.982447,52.315883
+"456","Marcantilaan 225, Amsterdam","1051 NB",3e+05,41,2,4.867456,52.375584
+"457","Robert Fruinlaan 24 III, Amsterdam","1065 XX",350000,68,3,4.829034,52.36373
+"458","Pesetalaan 59, Amsterdam","1060 SC",475000,106,5,4.784425,52.345886
+"459","Buiksloterbreek 35, Amsterdam","1034 XC",510000,91,3,4.909786,52.401616
+"460","Bernard Shawsingel 336, Amsterdam","1102 VG",225000,60,2,4.946485,52.319485
+"461","Nieuwe Keizersgracht 452, Amsterdam","1018 VG",545000,61,2,4.907725,52.365333
+"462","Prinsengracht 1029 C, Amsterdam","1017 KP",550000,66,2,4.895062,52.361956
+"463","Boris Pasternakstraat 427, Amsterdam","1102 TD",225000,43,2,4.943668,52.317544
+"464","Wamelplein 158, Amsterdam","1106 DS",320000,83,3,4.988144,52.299293
+"465","Merlijnstraat 16 I, Amsterdam","1055 DE",360000,49,3,4.854243,52.379548
+"466","Buitendraaierij 36, Amsterdam","1021 NN",475000,113,4,4.916194,52.382138
+"467","Erasmusgracht 5 2, Amsterdam","1056 BB",425000,62,3,4.848229,52.375341
+"468","Sandenburch 46, Amsterdam","1082 GN",395000,81,3,4.878726,52.325783
+"469","Alfred Döblinstraat 109, Amsterdam","1102 VJ",265000,71,3,4.943523,52.319589
+"470","Barbusselaan 127, Amsterdam","1102 TT",230000,53,2,4.944301,52.320816
+"471","Kamperfoelieweg 6, Amsterdam","1032 HN",750000,116,4,4.913949,52.392914
+"472","Reyer Anslostraat 17 H, Amsterdam","1054 KT",1e+06,122,5,4.860517,52.358293
+"473","Sarphatipark 136 H, Amsterdam","1073 EE",825000,112,5,4.898909,52.353937
+"474","Cornelis Dopperkade 6 6A, Amsterdam","1077 KL",425000,67,2,4.877222,52.344263
+"475","Formosastraat 61, Amsterdam","1094 SW",369000,56,2,4.934903,52.360041
+"476","Schalk Burgerstraat 10, Amsterdam","1091 LJ",3e+05,46,3,4.920288,52.353214
+"477","Korenbloemstraat 45, Amsterdam","1032 GT",389000,61,1,4.913147,52.399212
+"478","Robert Fruinlaan 17 1, Amsterdam","1065 XW",3e+05,59,3,4.830106,52.363717
+"479","Churchill-laan 256 III, Amsterdam","1078 EZ",8e+05,123,6,4.889777,52.347517
+"480","Kea Boumanstraat 30 B, Amsterdam","1095 MA",6e+05,120,4,4.966154,52.375408
+"481","Groetstraat 210, Amsterdam","1024 VG",3e+05,65,3,4.951253,52.394145
+"482","Amazonenstraat 20 1, Amsterdam","1076 LJ",415000,54,2,4.862373,52.345315
+"483","Groetstraat 207, Amsterdam","1024 VG",325000,77,4,4.95118,52.394073
+"484","Nieuwendammerdijk 142, Amsterdam","1025 LS",775000,117,4,4.93174,52.391546
+"485","Willy Mullenskade 15, Amsterdam","1087 KH",750000,158,6,5.000973,52.353136
+"486","Retiefstraat 61 3, Amsterdam","1092 VZ",650000,102,4,4.922217,52.355442
+"487","Eef Kamerbeekstraat 584 PP, Amsterdam","1095 MP",6e+05,108,4,4.967326,52.371556
+"488","Zaagmolenstraat 9 3, Amsterdam","1052 HB",325000,46,2,4.873501,52.377961
+"489","Billitonstraat 4 3, Amsterdam","1094 BC",385000,49,3,4.938408,52.365552
+"490","Keizersgracht 444 C, Amsterdam","1016 GD",875000,96,5,4.884002,52.367652
+"491","Lindengracht 215 A, Amsterdam","1015 KG",5e+05,52,2,4.881809,52.379633
+"492","Schouwstraat 11, Amsterdam","1023 CS",9e+05,120,5,4.948739,52.386865
+"493","Jesse Owenshof 27 PP, Amsterdam","1034 WT",350000,83,3,4.920989,52.403808
+"494","Leerdamhof 478, Amsterdam","1108 CN",350000,118,5,4.978704,52.305543
+"495","Katwijkstraat 1 a, Amsterdam","1059 XL",450000,62,2,4.847484,52.350909
+"496","Ruimzicht 40, Amsterdam","1068 CM",325000,88,4,4.806863,52.362205
+"497","Burgemeester De Vlugtlaan 219, Amsterdam","1063 BL",2e+05,27,2,4.818173,52.38178
+"498","Bestevâerstraat 5 2, Amsterdam","1056 HD",575000,80,3,4.860112,52.372671
+"499","Pieter Calandlaan 379, Amsterdam","1068 NJ",325000,81,3,4.81015,52.353861
+"500","Tweede Jan van der Heijdenstraat 57 I, Amsterdam","1074 XP",4e+05,47,2,4.90153,52.355844
+"501","J.C. van Epenstraat 47, Amsterdam","1019 GP",365000,59,2,4.944414,52.368343
+"502","Teldershof 57, Amsterdam","1067 ML",350000,88,3,4.800286,52.380052
+"503","Johan Huizingalaan 260 II, Amsterdam","1065 JM",3e+05,73,4,4.827023,52.354418
+"504","Kantershof 451, Amsterdam","1104 GZ",375000,90,4,4.992035,52.316742
+"505","Ruyschstraat 335, Amsterdam","1091 MR",415000,61,3,4.914021,52.358618
+"506","Burgemeester Van de Pollstraat 18, Amsterdam","1064 PB",3e+05,65,4,4.831964,52.371338
+"507","Slatuinenweg 37, Amsterdam","1057 KB",625000,75,3,4.863344,52.370007
+"508","Steenderenstraat 72, Amsterdam","1107 LD",315000,102,5,4.983162,52.294189
+"509","Gillis van Ledenberchstraat 3 HS, Amsterdam","1052 TV",325000,44,2,4.873179,52.377933
+"510","Tweede Kostverlorenkade 28 2, Amsterdam","1053 TP",370000,46,2,4.865067,52.369611
+"511","Mezenstraat 58, Amsterdam","1021 VL",298000,43,2,4.920012,52.386342
+"512","Bankastraat 36 III, Amsterdam","1094 EG",375000,56,3,4.933659,52.364743
+"513","Jan Zwanenburghof 17 H, Amsterdam","1063 JK",325000,81,3,4.819431,52.382253
+"514","Niasstraat 12 B, Amsterdam","1095 VA",325000,42,2,4.940171,52.364934
+"515","Hugo de Grootkade 78 2, Amsterdam","1052 LX",375000,54,2,4.870127,52.372608
+"516","Harry Koningsbergerstraat 192, Amsterdam","1063 AH",295000,46,2,4.837695,52.383556
+"517","Haarlemmerdijk 178 C, Amsterdam","1013 JK",375000,44,2,4.884769,52.384121
+"518","Aalbersestraat 232, Amsterdam","1067 GM",295000,65,4,4.798255,52.378644
+"519","Cola Debrotstraat 6, Amsterdam","1087 VJ",275000,48,2,5.014044,52.350961
+"520","IJselstraat 40 2, Amsterdam","1078 CJ",345000,47,2,4.899374,52.347656
+"521","Hoofdweg 947, Amsterdam","1055 SC",5e+05,82,3,4.846047,52.37786
+"522","Hudsonstraat 45 II, Amsterdam","1057 RX",390000,58,2,4.853953,52.365813
+"523","Wagenaarstraat 417, Amsterdam","1093 CN",4e+05,58,2,4.928824,52.363772
+"524","Krimpertplein 54, Amsterdam","1104 PH",250000,70,3,4.9685,52.316374
+"525","Tweede Jan Steenstraat 34 HS, Amsterdam","1073 VP",625000,72,4,4.899724,52.355854
+"526","Bert Haanstrakade 222, Amsterdam","1087 DK",550000,97,3,4.996295,52.359277
+"527","KNSM-laan 479 PP, Amsterdam","1019 LG",585000,87,3,4.941549,52.377347
+"528","Spengenpad 34, Amsterdam","1107 WH",425000,142,6,4.977631,52.291519
+"529","Amerbos 92, Amsterdam","1025 ZP",3e+05,85,3,4.945566,52.403049
+"530","Van Houweningenstraat 74 2, Amsterdam","1052 TS",3e+05,45,2,4.870505,52.372951
+"531","Steenderenstraat 32, Amsterdam","1107 LC",275000,73,2,4.983209,52.29383
+"532","Winthontstraat 28, Amsterdam","1013 BR",525000,69,3,4.892282,52.384356
+"533","Bonairestraat 73 H, Amsterdam","1058 XE",725000,88,4,4.855145,52.361963
+"534","Haarlemmerdijk 178 B, Amsterdam","1013 JK",350000,48,2,4.884769,52.384121
+"535","Overleg 82, Amsterdam","1068 RL",275000,57,2,4.803983,52.355143
+"536","Kortrijk 171, Amsterdam","1066 TB",450000,97,4,4.802374,52.342435
+"537","Van Spilbergenstraat 7 2, Amsterdam","1057 PV",325000,47,3,4.852015,52.364636
+"538","Goudsbloemstraat 191 A, Amsterdam","1015 JN",425000,48,2,4.881348,52.380215
+"539","Bolestein 756, Amsterdam","1081 EP",3e+05,44,2,4.859323,52.324179
+"540","Rhenenhof 19, Amsterdam","1106 JC",330000,108,5,4.971123,52.297841
+"541","Dickenslaan 79, Amsterdam","1102 XP",215000,43,2,4.945155,52.324953
+"542","Da Costakade 171 III, Amsterdam","1053 WX",695000,88,3,4.874092,52.367502
+"543","Hoogte Kadijk 110 F + PP, Amsterdam","1018 BT",750000,108,3,4.915967,52.368943
+"544","Marius Meijboomstraat 21, Amsterdam","1087 LD",4e+05,79,3,5.009082,52.351935
+"545","Frederik Hendrikstraat 117 E, Amsterdam","1052 HN",585000,82,3,4.872665,52.374093
+"546","Eerste Boerhaavestraat 16 1, Amsterdam","1091 SB",395000,44,2,4.907275,52.358042
+"547","Jisperveldstraat 427, Amsterdam","1024 AV",250000,84,3,4.951827,52.399557
+"548","Admiralengracht 162 H, Amsterdam","1057 GH",725000,103,3,4.857291,52.370304
+"549","Baden Powellweg 165, Amsterdam","1069 LE",275000,92,4,4.795583,52.348505
+"550","Nieuwe Kerkstraat 461, Amsterdam","1018 VK",7e+05,107,3,4.908421,52.364761
+"551","Kolfschotenstraat 154, Amsterdam","1104 PC",260000,83,4,4.969802,52.316702
+"552","Toutenburgstraat 104, Amsterdam","1107 PX",275000,83,3,4.9688878,52.2923239
+"553","Lumeijstraat 24 III, Amsterdam","1056 VX",535000,75,4,4.861328,52.372929
+"554","Leeuwendalersweg 636, Amsterdam","1061 BJ",465000,94,4,4.838028,52.377317
+"555","Eerste Constantijn Huygensstraat 49 I, Amsterdam","1054 BS",490000,62,3,4.87487,52.363758
+"556","Van Karnebeekstraat 7, Amsterdam","1067 RG",375000,69,4,4.799561,52.37431
+"557","Curaçaostraat 82 H, Amsterdam","1058 CA",425000,58,3,4.852231,52.361321
+"558","Groenhoven 430, Amsterdam","1103 LM",265000,109,5,4.976731,52.325525
+"559","Lodewijk Boisotstraat 6 H, Amsterdam","1057 ZN",425000,58,3,4.858639,52.369339
+"560","Beemsterstraat 517, Amsterdam","1024 BE",525000,122,5,4.950277,52.396263
+"561","Westlandgracht 189 IV, Amsterdam","1059 TL",625000,77,4,4.846204,52.349933
+"562","Willem Kromhoutstraat 17, Amsterdam","1067 RC",380000,77,4,4.795007,52.375474
+"563","Milletstraat 43 2, Amsterdam","1077 ZC",950000,148,7,4.869544,52.345822
+"564","Jacob van Lennepstraat 284 H, Amsterdam","1053 KD",350000,41,2,4.863282,52.363713
+"565","Robert Fruinlaan 16 III, Amsterdam","1065 XW",325000,70,4,4.830209,52.363691
+"566","Potgieterstraat 21 hs, Amsterdam","1053 XP",550000,74,2,4.874332,52.369651
+"567","Elpermeer 250, Amsterdam","1025 AP",3e+05,85,4,4.947646,52.402266
+"568","Reizigersweg 185, Amsterdam","1033 ZP",245000,50,2,4.883861,52.417569
+"569","Welnastraat 479, Amsterdam","1096 GJ",230000,28,1,4.920676,52.338759
+"570","Van Spilbergenstraat 41 I, Amsterdam","1057 PX",395000,53,3,4.851991,52.365663
+"571","Quellijnstraat 46 H, Amsterdam","1072 XT",365000,40,2,4.887941,52.35683
+"572","Van der Helstplein 10 3, Amsterdam","1072 PH",698000,89,5,4.894517,52.351528
+"573","Landzicht 23, Amsterdam","1068 ZV",495000,117,6,4.803386,52.364806
+"574","Postjesweg 203, Amsterdam","1062 JN",375000,80,4,4.840015,52.363904
+"575","Osdorpplein 62, Amsterdam","1068 EM",375000,88,3,4.806525,52.359424
+"576","James Bradleystraat 11, Amsterdam","1086 ZM",1200000,231,8,4.979592,52.360578
+"577","Admiraal De Ruijterweg 301 2, Amsterdam","1055 LW",425000,71,3,4.855635,52.37986
+"578","Grevelingenstraat 4 hs, Amsterdam","1078 KN",730000,89,3,4.88956,52.345979
+"579","Gibraltarstraat 68 2, Amsterdam","1055 NS",325000,48,4,4.849943,52.384166
+"580","Bijlmerdreef 1099, Amsterdam","1103 TT",275000,78,3,4.972526,52.321871
+"581","Keizersgracht 682 E, Amsterdam","1017 ET",535000,67,2,4.894107,52.363363
+"582","Doggersbankstraat 4 1, Amsterdam","1055 NX",375000,57,3,4.850695,52.383963
+"583","Dulcie Septemberpad 12, Amsterdam","1093 NK",775000,126,5,4.932925,52.358206
+"584","Josephus Jittastraat 65, Amsterdam","1063 NK",375000,78,3,4.814789,52.382249
+"585","Aalsmeerweg 28 1, Amsterdam","1059 AK",4e+05,54,3,4.849224,52.350198
+"586","Tweede Oosterparkstraat 132 E, Amsterdam","1092 BP",3e+05,40,2,4.91803,52.357424
+"587","Koolpalmhof 18, Amsterdam","1104 DH",375000,104,3,4.983057,52.318698
+"588","1e Kekerstraat 119, Amsterdam","1104 VA",295000,91,3,4.981371,52.313749
+"589","Ter Boede 2 hs, Amsterdam","1082 CB",345000,57,2,4.878162,52.325097
+"590","Kloekhorststraat 231, Amsterdam","1104 MN",260000,71,3,4.967708,52.317064
+"591","Wethouder De Vriesplantsoen 8, Amsterdam","1107 AN",225000,56,2,4.992412,52.295757
+"592","Van Spilbergenstraat 68 H, Amsterdam","1057 RK",425000,50,2,4.852084,52.366236
+"593","Talbotstraat 223, Amsterdam","1087 DM",475000,90,3,4.996258,52.358696
+"594","Oeverpad 570, Amsterdam","1068 PM",425000,108,3,4.808883,52.363274
+"595","Prinsengracht 303 F, Amsterdam","1016 GX",1170000,121,2,4.883377,52.373492
+"596","Tugelaweg 40 f+PP, Amsterdam","1092 VG",520000,69,3,4.923063,52.35637
+"597","Petrus Blokhof 12 II, Amsterdam","1065 XK",350000,68,4,4.829524,52.363328
+"598","Gouden Leeuw 930, Amsterdam","1103 KW",289500,108,5,4.974531,52.325473
+"599","Willebroekstraat 38, Amsterdam","1066 WE",480000,127,5,4.80722,52.344454
+"600","Statenjachtstraat 542, Amsterdam","1034 EZ",325000,84,4,4.917985,52.405783
+"601","Overleg 84, Amsterdam","1068 RL",250000,57,2,4.803968,52.355143
+"602","Pieter van der Werfstraat 127, Amsterdam","1067 EM",350000,87,3,4.802688,52.382381
+"603","Edmond Halleylaan 25, Amsterdam","1086 ZV",6e+05,110,4,4.981387,52.360243
+"604","Waterlandplein 292 D, Amsterdam","1024 NB",350000,87,3,4.954462,52.393215
+"605","Ceintuurbaan 199 1, Amsterdam","1074 CV",525000,70,3,4.901743,52.355153
+"606","Venetiëhof 212, Amsterdam","1019 NE",5e+05,89,3,4.947119,52.376909
+"607","Jacob Burggraafstraat 90, Amsterdam","1018 WA",7e+05,106,3,4.922868,52.371793
+"608","Vianenstraat 97, Amsterdam","1106 DB",3e+05,90,4,4.984519,52.299712
+"609","Amerbos 34, Amsterdam","1025 ZM",175000,28,1,4.945552,52.402968
+"610","Burgemeester Hogguerstraat 329, Amsterdam","1064 CR",365000,78,4,4.829607,52.372067
+"611","Zeeburgerkade 760, Amsterdam","1019 HT",NA,107,3,4.945022,52.369244
+"612","Philip Vingboonsstraat 19, Amsterdam","1067 BG",375000,84,4,4.7958,52.38318
+"613","Haarlemmerweg 33 D, Amsterdam","1051 KN",425000,74,3,4.878057,52.385387
+"614","Den Texstraat 35 2, Amsterdam","1017 XX",1320000,230,8,4.894964,52.358917
+"615","Bombraak 4, Amsterdam","1035 JR",469000,109,3,4.891949,52.423805
+"616","Cliffordstraat 40 II, Amsterdam","1051 GV",270000,38,1,4.870659,52.383656
+"617","Tweede Weteringdwarsstraat 44 2, Amsterdam","1017 SX",325000,44,3,4.889549,52.361331
+"618","Kaneelappelstraat 90, Amsterdam","1036 LG",650000,113,6,4.903976,52.407476
+"619","Conradstraat 126 F, Amsterdam","1018 NM",550000,90,3,4.930426,52.371197
+"620","Stephensonstraat 1 D, Amsterdam","1097 BA",1150000,163,7,4.921657,52.351422
+"621","Van Hallstraat 33 I, Amsterdam","1051 GX",385000,50,2,4.870167,52.384355
+"622","Bloys van Treslongstraat 62 H, Amsterdam","1056 XD",325000,43,2,4.859637,52.375563
+"623","Hof van Versailles 37, Amsterdam","1064 NX",750000,155,6,4.832889,52.367757
+"624","Zwanenplein 69, Amsterdam","1021 CK",465000,73,4,4.918062,52.387403
+"625","Ladogameerhof 162, Amsterdam","1060 RE",3e+05,67,3,4.783188,52.350225
+"626","Jisperveldstraat 598, Amsterdam","1024 BD",250000,84,3,4.952138,52.400571
+"627","Paramariboplein 67 bel, Amsterdam","1058 AR",5e+05,64,3,4.854288,52.359955
+"628","Ter Haarstraat 21 E, Amsterdam","1053 LH",875000,108,4,4.655161,52.376552
+"629","Sloterkade 33 C, Amsterdam","1058 HE",399000,62,2,4.853523,52.356392
+"630","Veemkade 1200, Amsterdam","1019 BZ",925000,145,4,4.933939,52.374739
+"631","Zuidelijke Wandelweg 151, Amsterdam","1079 RK",875000,123,4,4.894206,52.33822
+"632","Zuidelijke Wandelweg 151 PP, Amsterdam","1079 RK",930000,123,4,4.894206,52.33822
+"633","Funenpark 349, Amsterdam","1018 AK",725000,101,4,4.931075,52.369038
+"634","Bos en Lommerplein 109 PP, Amsterdam","1055 AD",575000,119,3,4.845779,52.37755
+"635","IJburglaan 1445, Amsterdam","1087 KH",6e+05,132,4,5.00033,52.35282
+"636","Pesetalaan 47, Amsterdam","1060 SC",6e+05,146,7,4.784642,52.346094
+"637","Kloekhorststraat 215, Amsterdam","1104 MN",265000,72,3,4.9684,52.317292
+"638","Zaagmolenstraat 9, Amsterdam","1052 HB",350000,46,3,4.873501,52.377961
+"639","Burgemeester Hogguerstraat 769, Amsterdam","1064 EB",340000,78,3,4.829629,52.372955
+"640","Jan van Schaffelaarplantsoen 29 A, Amsterdam","1061 DM",350000,58,3,4.84314,52.378753
+"641","Vrolikstraat 309 C, Amsterdam","1091 VE",430000,56,2,4.917761,52.356215
+"642","Moestuinlaan 10, Amsterdam","1036 KD",975000,180,5,4.900779,52.408945
+"643","Amsteldijk 828, Amsterdam","1079 LM",5e+05,84,3,4.913659,52.343221
+"644","Tollensstraat 62, Amsterdam","1053 RW",850000,123,7,4.869096,52.366755
+"645","Kazernestraat 2 2, Amsterdam","1018 CC",645000,89,3,4.921169,52.364353
+"646","Tweede Jan van der Heijdenstraat 53 III, Amsterdam","1074 XP",425000,49,3,4.901398,52.355807
+"647","Van Hilligaertstraat 47, Amsterdam","1072 JX",1090000,149,3,4.890751,52.349678
+"648","Doggerstraat 15, Amsterdam","1086 VG",895000,184,6,4.986808,52.364679
+"649","Statenjachtstraat 211, Amsterdam","1034 GA",465000,104,3,4.918343,52.405579
+"650","Uiterwaardenstraat 9 H, Amsterdam","1079 BN",7e+05,79,3,4.911378,52.342112
+"651","Nijenburg 20, Amsterdam","1081 GG",325000,55,2,4.865786,52.328459
+"652","Panamalaan 84, Amsterdam","1019 AZ",695000,107,4,4.934082,52.371077
+"653","Govert Flinckstraat 392 II, Amsterdam","1074 CJ",825000,97,4,4.902906,52.35753
+"654","S. F. van Ossstraat 180, Amsterdam","1068 JN",280000,64,3,4.811771,52.355712
+"655","Buziaustraat 14, Amsterdam","1068 KN",550000,160,6,4.811827,52.353554
+"656","Schoorlstraat 42, Amsterdam","1024 PN",325000,77,3,4.945778,52.393622
+"657","Ponserstraat 12, Amsterdam","1033 DL",325000,77,3,4.899777,52.40313
+"658","Tefelenstraat 82, Amsterdam","1107 SM",275000,111,5,4.970438,52.294244
+"659","Juliana van Stolbergstraat 45 H, Amsterdam","1055 RL",340000,46,2,4.856593,52.380808
+"660","Hoofdweg 252 H, Amsterdam","1057 DH",550000,72,3,4.85255,52.367739
+"661","Venetiëhof 10, Amsterdam","1019 NA",5e+05,84,3,4.947231,52.377422
+"662","ms. van Riemsdijkweg 266, Amsterdam","1033 RD",750000,111,4,4.892182,52.401519
+"663","Leeuwendalersweg 648 PP, Amsterdam","1061 BJ",499000,92,4,4.837996,52.37746
+"664","Prinsengracht 483 A, Amsterdam","1016 HP",1750000,212,4,4.883097,52.369689
+"665","Bellamystraat 13 15, Amsterdam","1053 BE",1250000,202,6,4.866447,52.367118
+"666","Gulden Winckelplantsoen 16 II, Amsterdam","1055 EL",319000,50,2,4.847496,52.378843
+"667","Hondecoeterstraat 20 III, Amsterdam","1071 LS",1100000,147,4,4.878689,52.353303
+"668","Waverstraat 48 2, Amsterdam","1079 VM",325000,47,2,4.909223,52.34615
+"669","Kortrijk 35, Amsterdam","1066 TA",475000,109,4,4.801543,52.344264
+"670","Ruimzicht 83, Amsterdam","1068 CP",3e+05,88,2,4.807168,52.361653
+"671","Loenermark 372, Amsterdam","1025 TH",265000,66,2,4.930826,52.398984
+"672","Baden Powellweg 60 B, Amsterdam","1069 LK",399500,99,3,4.792451,52.354762
+"673","Pyreneeën 7, Amsterdam","1060 NP",725000,173,7,4.773171,52.349954
+"674","Ferguutstraat 16 III, Amsterdam","1055 SX",625000,95,5,4.855072,52.377799
+"675","Lange Leidsedwarsstraat 103 1 B, Amsterdam","1017 NJ",399000,40,2,4.886109,52.363042
+"676","Egidiusstraat 23 1, Amsterdam","1055 GL",445000,66,3,4.852373,52.377544
+"677","IJburglaan 1468, Amsterdam","1087 KG",550000,145,3,5.000011,52.352324
+"678","Bonairestraat 46 Hs, Amsterdam","1058 XJ",675000,84,4,4.855835,52.360699
+"679","De Boelelaan 223, Amsterdam","1082 RA",325000,84,3,4.877949,52.334686
+"680","Hertspieghelweg 64 H, Amsterdam","1055 KR",6e+05,82,4,4.852076,52.381479
+"681","Curaçaostraat 76 1, Amsterdam","1058 CA",375000,57,3,4.852248,52.361159
+"682","Rijnstraat 238 1, Amsterdam","1079 HV",575000,82,4,4.906854,52.341296
+"683","Burgemeester Hogguerstraat 353, Amsterdam","1064 CR",475000,79,3,4.829591,52.372067
+"684","Tilanusstraat 334, Amsterdam","1091 MZ",5e+05,62,3,4.914296,52.358996
+"685","Hofgeest 111, Amsterdam","1102 EE",275000,94,4,4.95696,52.311632
+"686","Valeriusstraat 148 Hs, Amsterdam","1075 GE",1775000,177,9,4.865595,52.353408
+"687","Brederodestraat 42 4, Amsterdam","1054 MV",525000,63,3,4.865952,52.361768
+"688","Blasiusstraat 13 1, Amsterdam","1091 CJ",4e+05,52,2,4.908012,52.356419
+"689","Hof van Groenen 13, Amsterdam","1083 JR",375000,80,4,4.882011,52.330956
+"690","Baron G.A. Tindalplein 10, Amsterdam","1019 TJ",550000,87,2,4.942751,52.373127
+"691","Retiefstraat 49 2, Amsterdam","1092 VX",525000,76,2,4.922699,52.355605
+"692","Lindengracht 24 III, Amsterdam","1015 KJ",760000,90,4,4.886718,52.380687
+"693","Latherusstraat 54, Amsterdam","1032 EC",7e+05,123,6,4.91506,52.393449
+"694","Derde Helmersstraat 50 H, Amsterdam","1054 BJ",675000,75,3,4.876322,52.365121
+"695","Fleerde 203, Amsterdam","1102 AV",325000,97,4,4.955054,52.317674
+"696","Carolina MacGillavrylaan 130, Amsterdam","1098 XA",459000,75,3,4.94178,52.357269
+"697","Kinkerstraat 320 III, Amsterdam","1053 GD",350000,46,2,4.863132,52.36504
+"698","Zeeburgerdijk 64 I, Amsterdam","1094 AE",325000,43,2,4.934601,52.36596
+"699","Pieter Calandlaan 231, Amsterdam","1068 ND",275000,81,3,4.810853,52.354008
+"700","Het Hoogt 215, Amsterdam","1025 GW",275000,57,2,4.937616,52.397321
+"701","Rijswijkstraat 32, Amsterdam","1062 EE",7e+05,140,5,4.837658,52.350226
+"702","Ruiseveenpad 48, Amsterdam","1106 AM",209000,59,2,4.975309,52.296957
+"703","Weteringschans 122 A, Amsterdam","1017 XT",1325000,150,5,4.896605,52.359176
+"704","Prinsengracht 1033 C, Amsterdam","1017 KP",850000,120,3,4.89518,52.361947
+"705","IJburglaan 1453 PP, Amsterdam","1087 KH",485000,105,4,5.000345,52.352811
+"706","Oude-IJselstraat 3 1, Amsterdam","1078 CL",385000,53,2,4.901411,52.347889
+"707","Rijsbesstraat 2, Amsterdam","1036 LN",650000,125,5,4.901879,52.406292
+"708","Haarlemmermeerstraat 151 1, Amsterdam","1058 JX",450000,64,3,4.850607,52.352379
+"709","Cas Oorthuyskade 252, Amsterdam","1087 DP",450000,87,3,4.990866,52.360697
+"710","Poeldijkstraat 259, Amsterdam","1059 VL",6e+05,90,3,4.844731,52.349856
+"711","Langswater 885 XII, Amsterdam","1069 EH",245000,71,3,4.787319,52.359244
+"712","Tweede Keucheniusstraat 8 3, Amsterdam","1051 VR",5e+05,70,3,4.869195,52.380747
+"713","Hasebroekstraat 41 H, Amsterdam","1053 CM",6e+05,80,2,4.865609,52.365991
+"714","Hoendiepstraat 36 hs, Amsterdam","1079 LW",595000,73,3,4.910454,52.34221
+"715","Eerste Jacob van Campenstraat 54 III-IV, Amsterdam","1072 BH",995000,127,4,4.889858,52.357323
+"716","Leghornstraat 4, Amsterdam","1109 BW",475000,118,5,5.015376,52.305296
+"717","Bijlmerdreef 1097, Amsterdam","1103 TT",275000,78,3,4.972526,52.321871
+"718","Jisperveldstraat 212, Amsterdam","1024 AK",285000,85,4,4.950198,52.39832
+"719","Hoofdweg 150 hs, Amsterdam","1057 DB",585000,75,3,4.853451,52.364831
+"720","J.M. den Uylstraat 76, Amsterdam","1067 WD",310000,75,3,4.790104,52.381911
+"721","Valkhof 21, Amsterdam","1082 VC",495000,81,4,4.870861,52.332238
+"722","Wilhelminastraat 81 I, Amsterdam","1054 VX",475000,54,2,4.863781,52.361606
+"723","Gibraltarstraat 73 1, Amsterdam","1055 NK",425000,57,3,4.849341,52.384118
+"724","Noorderakerweg 100, Amsterdam","1069 LW",875000,161,4,4.777448,52.350596
+"725","Kanaalstraat 204 H, Amsterdam","1054 XS",560000,73,3,4.857873,52.360923
+"726","Erich Salomonstraat 629, Amsterdam","1087 JA",7e+05,130,6,5.001384,52.354845
+"727","Eerste Helmersstraat 56 hs, Amsterdam","1054 DJ",1150000,144,6,4.875312,52.363634
+"728","Suikerplein 16, Amsterdam","1013 CK",NA,81,3,4.880976,52.389623
+"729","Bilderdijkkade 50 D2, Amsterdam","1053 VN",1250000,149,6,4.868023,52.370359
+"730","Leeuwenwerf 119, Amsterdam","1018 KB",275000,40,2,4.921147,52.373395
+"731","Eurokade 11, Amsterdam","1060 RZ",575000,145,5,4.78754,52.348859
+"732","Saxenburgerstraat 1 B, Amsterdam","1054 KM",1025000,125,3,4.860922,52.358834
+"733","Louise de Colignystraat 54 H, Amsterdam","1055 XN",340000,47,2,4.856817,52.380458
+"734","Nachtwachtlaan 501, Amsterdam","1058 ES",550000,125,5,4.84351,52.363743
+"735","Donker Curtiusstraat 49, Amsterdam","1051 MC",4e+05,59,2,4.871359,52.378707
+"736","Marius Bauerstraat 235 B2, Amsterdam","1062 AL",235000,33,2,4.836971,52.362788
+"737","Grootzeilhof 10, Amsterdam","1034 LX",335000,93,4,4.92221,52.409314
+"738","Willem Augustinstraat 179, Amsterdam","1061 MJ",975000,221,5,4.838629,52.37491
+"739","Javakade 112, Amsterdam","1019 RV",450000,64,2,4.930926,52.377783
+"740","Pontanusstraat 200, Amsterdam","1093 SH",350000,53,2,4.930264,52.363679
+"741","Oostzaanstraat 255, Amsterdam","1013 WJ",725000,118,4,4.87252,52.392217
+"742","Kinkerstraat 268 2, Amsterdam","1053 GB",340000,44,3,4.864588,52.365393
+"743","Geschutswerf 15, Amsterdam","1018 AW",1175000,164,2,4.92035,52.366858
+"744","Het Hoogt 178, Amsterdam","1025 HD",325000,92,4,4.936866,52.394487
+"745","Dorpsweg Ransdorp 36, Amsterdam","1028 BP",7e+05,103,4,4.99474,52.392365
+"746","Nicolaas Anslijnstraat 125, Amsterdam","1068 WV",295000,82,3,4.808181,52.357419
+"747","Lutmastraat 202 B, Amsterdam","1074 VA",335000,44,2,4.904467,52.35165
+"748","Lootsstraat 24 II, Amsterdam","1053 NX",3e+05,38,2,4.86116,52.363527
+"749","Commelinstraat 174, Amsterdam","1093 VD",6e+05,83,4,4.925816,52.363614
+"750","Koninginneweg 195 2, Amsterdam","1075 CR",675000,72,3,4.860601,52.352451
+"751","Van Speijkstraat 175 2, Amsterdam","1057 GZ",495000,80,4,4.859791,52.371205
+"752","Van Speijkstraat 138 3, Amsterdam","1057 HJ",539000,75,3,4.860239,52.370632
+"753","Kinderdijkstraat 48 3, Amsterdam","1079 GL",499000,75,3,4.902863,52.342664
+"754","Overtoom 427 I, Amsterdam","1054 JR",475000,67,3,4.860847,52.358995
+"755","Dulcie Septemberpad 2, Amsterdam","1093 NK",8e+05,130,5,4.932943,52.358329
+"756","Gerrit van der Veenstraat 145 B*, Amsterdam","1077 DZ",1625000,257,9,4.869761,52.348636
+"757","Akerwateringstraat 71, Amsterdam","1069 GB",315000,99,4,4.78504,52.354616
+"758","Pesetalaan 27, Amsterdam","1060 SC",450000,111,4,4.785975,52.347341
+"759","Kanaalstraat 38 2, Amsterdam","1054 XJ",495000,54,3,4.86547,52.3628
+"760","Beethovenstraat 225, Amsterdam","1077 JE",550000,78,3,4.877208,52.342458
+"761","Ben van Meerendonkstraat 295, Amsterdam","1087 LN",4e+05,89,3,5.012134,52.349139
+"762","Weissenbruchstraat 49 hs, Amsterdam","1058 KN",525000,70,3,4.849656,52.353346
+"763","Frissenstein 304, Amsterdam","1102 AP",350000,98,4,4.952422,52.316855
+"764","Retiefstraat 97 A, Amsterdam","1092 XB",620000,86,4,4.92068,52.354968
+"765","Voorsteven 11, Amsterdam","1034 SK",375000,89,5,4.915413,52.40997
+"766","Enkhuizerstraat 5, Amsterdam","1023 VP",550000,114,6,4.942035,52.393266
+"767","Jacob van Lennepstraat 11 I/ II, Amsterdam","1053 HA",1095000,204,6,4.876183,52.366972
+"768","Meeuwenlaan 175 B, Amsterdam","1021 JC",485000,93,5,4.918067,52.385525
+"769","J.M. den Uylstraat 4, Amsterdam","1067 WC",385000,87,3,4.793277,52.381864
+"770","Noorder IJdijk 63, Amsterdam","1023 NT",1575000,138,4,4.961457,52.38257
+"771","Van Nijenrodeweg 81, Amsterdam","1083 EE",249000,33,2,4.883913,52.327585
+"772","Burgemeester Cramergracht 60, Amsterdam","1064 AE",350000,74,4,4.832383,52.373012
+"773","Jan van Zutphenstraat 103, Amsterdam","1069 RR",6e+05,136,4,4.802149,52.350604
+"774","Doddendaal 56, Amsterdam","1082 XW",425000,79,3,4.874705,52.332273
+"775","Hendrik Bulthuisstraat 8, Amsterdam","1067 SC",345000,69,4,4.795948,52.374337
+"776","Prins Hendrikkade 156 3, Amsterdam","1011 AW",640000,58,3,4.907085,52.372907
+"777","Prins Hendrikkade 156 1, Amsterdam","1011 AW",645000,58,3,4.907085,52.372907
+"778","Jan van Duivenvoordestraat 35, Amsterdam","1067 MT",350000,92,3,4.802618,52.378567
+"779","Celebesstraat 112 A, Amsterdam","1094 EZ",350000,65,2,4.935377,52.358917
+"780","Brenner 24, Amsterdam","1060 NV",475000,115,5,4.776722,52.351033
+"781","Singel 57 3, Amsterdam","1012 VD",4e+05,46,1,4.892211,52.376702
+"782","IJburglaan 754, Amsterdam","1087 EM",450000,96,3,4.993345,52.355933
+"783","Hellingstraat 52, Amsterdam","1033 WW",450000,59,2,4.891511,52.401727
+"784","Albert Luthulistraat 26 B, Amsterdam","1091 NW",375000,54,3,4.919118,52.352814
+"785","Kinkerstraat 205 B, Amsterdam","1053 DS",485000,69,3,4.866392,52.365536
+"786","Willemsparkweg 125 C, Amsterdam","1071 GW",1100000,136,3,4.872591,52.356414
+"787","Bosplaat 80, Amsterdam","1025 AT",1e+06,220,7,4.948314,52.400138
+"788","Sportstraat 6 1, Amsterdam","1076 TV",375000,43,2,4.860276,52.347686
+"789","Le Tourmalet 8, Amsterdam","1060 NX",525000,138,5,4.774348,52.350823
+"790","Nieuwevaartweg, Amsterdam","1019 AL",1325000,162,4,4.95437552819149,52.3679823
+"791","Grootzeil 197, Amsterdam","1034 LW",335000,92,4,4.921825,52.409609
+"792","Schalk Burgerstraat 72, Amsterdam","1091 LM",4e+05,58,3,4.920732,52.352847
+"793","Cliostraat 14 B, Amsterdam","1077 KG",835000,124,3,4.876154,52.347558
+"794","Cliostraat 14 A, Amsterdam","1077 KG",885000,136,3,4.876154,52.347558
+"795","Niersstraat 35 HS, Amsterdam","1078 VH",635000,81,3,4.894509,52.343016
+"796","Eerste Helmersstraat 244 A, Amsterdam","1054 ER",1120000,129,5,4.860337,52.359856
+"797","Van Spilbergenstraat 36 3, Amsterdam","1057 RH",375000,52,3,4.852329,52.365365
+"798","De Bazelhof 24, Amsterdam","1067 LZ",4e+05,107,6,4.79581,52.376916
+"799","Pretoriusstraat 57 4, Amsterdam","1092 GA",285000,41,2,4.922721,52.354922
+"800","Kantershof 137, Amsterdam","1104 GG",425137,92,4,4.98896,52.321172
+"801","Lange Stammerdijk 1 G, Amsterdam","1109 BK",549001,107,4,5.016522,52.305075
+"802","Hamontstraat 59, Amsterdam","1066 LG",575000,134,6,4.812092,52.348999
+"803","Jacob Melkmanstraat 52, Amsterdam","1063 GN",5e+05,102,5,4.823859,52.383847
+"804","Dalsteindreef 198, Amsterdam","1102 WX",179000,29,2,4.945048,52.325695
+"805","Anjeliersstraat 31 A, Amsterdam","1015 ND",790000,90,3,4.884941,52.378055
+"806","Balboastraat 52 II, Amsterdam","1057 VX",350000,50,3,4.853093,52.368955
+"807","Meer en Vaart 90 B, Amsterdam","1068 ZZ",425000,110,4,4.804152,52.364802
+"808","Noordzijde 48, Amsterdam","1064 GV",6e+05,135,6,4.820624,52.373918
+"809","Stadionweg 140 3, Amsterdam","1077 SX",1099000,191,6,4.874975,52.346978
+"810","Wolbrantskerkweg 66 E, Amsterdam","1069 DA",525000,112,5,4.79733,52.356512
+"811","Loenermark 130, Amsterdam","1025 SM",329000,74,4,4.928532,52.397672
+"812","Van Abbestraat 66, Amsterdam","1064 WV",445000,101,3,4.83075,52.365104
+"813","Osdorperweg 177, Amsterdam","1069 LL",950000,174,6,4.794378,52.347806
+"814","Rozengracht 104 lll, Amsterdam","1016 NG",8e+05,107,3,4.879459,52.373268
+"815","Haag en Veld 245 B, Amsterdam","1102 GL",350000,144,6,4.955915,52.310514
+"816","Jacob Groenplantsoen 7, Amsterdam","1035 MA",875000,135,5,4.897048,52.417382
+"817","Admiraal De Ruijterweg 125 2, Amsterdam","1056 EX",575000,78,3,4.858844,52.373106
+"818","Keizersgracht 649 F, Amsterdam","1017 DT",7e+05,76,4,4.895174,52.363763
+"819","Loodskotterhof 4, Amsterdam","1034 CN",325000,80,4,4.909069,52.405451
+"820","Archimedesweg 32 I, Amsterdam","1098 JR",750000,102,5,4.937898,52.356428
+"821","Magalhaensplein 25 H, Amsterdam","1057 VE",5e+05,73,3,4.853124,52.367607
+"822","Ploegstraat 187, Amsterdam","1097 WE",3e+05,48,2,4.949415,52.340644
+"823","Uffizilaan 43, Amsterdam","1064 WJ",675000,157,5,4.831079,52.368144
+"824","Amstelveenseweg 186 IV A, Amsterdam","1075 XR",345000,34,2,4.855832,52.352385
+"825","Werengouw 413, Amsterdam","1024 NZ",275000,64,3,4.94649,52.39437
+"826","Dirk Bonsstraat 22, Amsterdam","1063 VA",245000,45,2,4.834844,52.378255
+"827","Amstelveenseweg 186 IIIV, Amsterdam","1075 XR",385000,37,2,4.855832,52.352385
+"828","Amstelveenseweg 186 IIIA, Amsterdam","1075 XR",375000,35,2,4.855832,52.352385
+"829","Stentorstraat 95 I, Amsterdam","1035 XE",3e+05,68,3,4.898877,52.419502
+"830","Saskia van Uijlenburgkade 158 PP, Amsterdam","1058 GA",1200000,171,4,4.846606,52.356702
+"831","J.S. Ruppertstraat 17, Amsterdam","1069 KJ",499000,127,5,4.796462,52.352238
+"832","Bijlmerdreef 514, Amsterdam","1102 AC",325000,98,3,4.956816,52.31741
+"833","Jacob van Lennepkade 265 C, Amsterdam","1054 ZT",480000,60,2,4.85983,52.361813
+"834","Aalsmeerweg 112 II, Amsterdam","1059 AR",475000,62,4,4.846923,52.347545
+"835","Rustenburgerstraat 398 H, Amsterdam","1072 HH",685000,78,3,4.890731,52.351449
+"836","Keizersgracht 306 1 V, Amsterdam","1016 EX",550000,57,2,4.884292,52.370557
+"837","Eurokade 10, Amsterdam","1060 RZ",550000,137,5,4.787554,52.348895
+"838","Oranje Nassaulaan 9, Amsterdam","1075 AH",5850000,480,14,4.863729,52.354874
+"839","Burgemeester Hogguerstraat 773, Amsterdam","1064 EB",330000,78,3,4.829637,52.372964
+"840","Hertspieghelweg 6 I, Amsterdam","1055 KL",375000,59,3,4.852415,52.380133
+"841","Rietlandpark 103, Amsterdam","1019 DS",575000,107,3,4.935891,52.37338
+"842","Langestraat 96, Amsterdam","1015 AM",825000,98,4,4.890594,52.376848
+"843","George Ortonpad 9, Amsterdam","1034 WN",515000,119,4,4.918363,52.403385
+"844","Hogevecht 8, Amsterdam","1102 HA",225000,65,2,4.958115,52.309662
+"845","Koninginneweg 158 4, Amsterdam","1075 EE",1050000,119,5,4.860818,52.352776
+"846","Leeuwendalersweg 13 E, Amsterdam","1055 JE",425000,80,4,4.846389,52.379296
+"847","Spicastraat 3, Amsterdam","1033 CN",375000,63,5,4.890785,52.41492
+"848","Hugo de Grootkade 9 H, Amsterdam","1052 LN",1150000,145,5,4.87195,52.372454
+"849","Egidiusstraat 28 3, Amsterdam","1055 GV",425000,71,4,4.852168,52.378747
+"850","Reguliersgracht 87, Amsterdam","1017 LN",1450000,124,5,4.896425,52.360892
+"851","Sarphatistraat 82 E, Amsterdam","1018 GS",850000,90,3,4.910051,52.361418
+"852","Waterlooplein 175 PP, Amsterdam","1011 PG",750000,114,4,4.902566,52.368503
+"853","Noorder Valdeur 4, Amsterdam","1035 KA",450000,107,4,4.892525,52.423619
+"854","Charlotte Brontéstraat 164, Amsterdam","1102 XH",235000,58,2,4.947669,52.325253
+"855","Rapenburg 35 C, Amsterdam","1011 TV",6e+05,83,2,4.908391,52.371373
+"856","Nicolaas Anslijnstraat 117, Amsterdam","1068 WT",315000,81,3,4.807981,52.357437
+"857","Vondelstraat 70 II, Amsterdam","1054 GG",1250000,157,4,4.876006,52.362028
+"858","Doornburg 155, Amsterdam","1081 JX",699000,98,3,4.861985,52.322384
+"859","Kruisherenpad 7, Amsterdam","1067 DZ",440000,115,6,4.802015,52.380829
+"860","Klaprozenweg 49 B 2 +PP, Amsterdam","1032 KK",450000,74,2,4.904136,52.399475
+"861","Bakkumstraat 4, Amsterdam","1024 VX",3e+05,78,4,4.954641,52.394724
+"862","Narva-eiland 171, Amsterdam","1014 ZJ",475000,61,3,4.881701,52.393538
+"863","Pretoriusstraat 22 1, Amsterdam","1092 GG",399000,66,4,4.925631,52.356012
+"864","Parnassusweg 29 I, Amsterdam","1077 DC",790000,109,5,4.867865,52.345104
+"865","Slatuinenweg 21, Amsterdam","1057 KA",650000,77,3,4.863394,52.36954
+"866","Jan Ligthartstraat 19, Amsterdam","1068 PA",375000,96,4,4.806801,52.352919
+"867","Van Oldenbarneveldtstraat 66 1, Amsterdam","1052 KD",365000,47,2,4.874125,52.374854
+"868","Carry Pothuis-Smitstraat 28, Amsterdam","1069 RC",210000,47,2,4.797085,52.353976
+"869","Ruimzicht 130, Amsterdam","1068 CS",269000,55,2,4.808183,52.361977
+"870","Nachtwachtlaan 167, Amsterdam","1058 EE",570000,96,4,4.843132,52.360049
+"871","Warmoesstraat 16 M, Amsterdam","1012 JD",785000,112,3,4.899032,52.376065
+"872","Oostelijke Handelskade 1155, Amsterdam","1019 DN",5e+05,93,3,4.938017,52.373868
+"873","Vechtstraat 180 I, Amsterdam","1079 JW",4e+05,53,3,4.907895,52.341373
+"874","Leiduinstraat 18 I, Amsterdam","1058 SJ",425000,55,3,4.846708,52.353775
+"875","Poeldijkstraat 269, Amsterdam","1059 VL",7e+05,106,3,4.844918,52.349996
+"876","Burgemeester Cramergracht 91, Amsterdam","1064 AH",350000,75,3,4.832782,52.373345
+"877","Olympiaweg 58 III, Amsterdam","1076 XB",360000,42,3,4.86139,52.347835
+"878","Geldersekade 11 II, Amsterdam","1011 EH",512000,64,2,4.902531,52.37572
+"879","Van Ostadestraat 365 I, Amsterdam","1074 VW",375000,45,2,4.90341,52.354369
+"880","Javakade 144, Amsterdam","1019 RW",750000,118,4,4.930455,52.377871
+"881","Gouden Leeuw 347, Amsterdam","1103 KH",237000,53,3,4.974395,52.324322
+"882","Van Ostadestraat 58 1H, Amsterdam","1072 TA",375000,45,2,4.888718,52.351656
+"883","Zandstraat 5 hs, Amsterdam","1011 HJ",560000,80,2,4.898846,52.370303
+"884","Willem Kraanstraat 80, Amsterdam","1063 ML",250000,48,3,4.823887,52.38063
+"885","Nieuwevaartweg, Amsterdam","1019 AL",650000,87,4,4.95437552819149,52.3679823
+"886","Levantplein 9, Amsterdam","1019 MA",1450000,273,5,4.942112,52.376819
+"887","Mandarijnenstraat 60 H, Amsterdam","1033 LG",275000,40,2,4.898299,52.40928
+"888","Antillenstraat 25 III, Amsterdam","1058 GX",550000,81,5,4.850743,52.359283
+"889","Ekingenstraat 272, Amsterdam","1069 GZ",349000,82,4,4.797681,52.354375
+"890","Jan van Duivenvoordestraat 85 2, Amsterdam","1067 MT",350000,92,3,4.802582,52.379007
+"891","Droogbak 6 B, Amsterdam","1013 GE",575000,80,3,4.893865,52.379863
+"892","Beulingstraat 6 A, Amsterdam","1017 BA",1e+06,120,3,4.887462,52.368027
+"893","Het Breed 617, Amsterdam","1025 HW",398000,102,3,4.93924,52.396527
+"894","Tielstraat 31, Amsterdam","1107 PZ",280000,82,3,4.968223,52.291672
+"895","Akbarstraat 16 D, Amsterdam","1061 EA",350000,58,3,4.841738,52.378934
+"896","Haparandaweg 932 A, Amsterdam","1013 BD",5e+05,76,3,4.878134,52.395229
+"897","Van der Palmkade 116, Amsterdam","1051 RH",615000,95,4,4.8722593,52.379951
+"898","Haringbuisdijk 14, Amsterdam","1086 VA",575000,128,4,4.90981909560303,52.3686532505277
+"899","Brouwersgracht 172 A, Amsterdam","1013 HB",275000,31,2,4.888065,52.381025
+"900","Cliffordstraat 3 3, Amsterdam","1051 GP",644900,92,3,4.873124,52.383918
+"901","Kanaalstraat 100 G, Amsterdam","1054 XL",199000,21,1,4.862992,52.362176
+"902","Saxen-Weimarlaan 22 2, Amsterdam","1075 CB",685000,80,3,4.856566,52.353584
+"903","Lauriergracht 89, Amsterdam","1016 RJ",1300000,139,5,4.879252,52.370823
+"904","Faas Wilkesstraat 357, Amsterdam","1095 MD",540000,94,3,4.969506,52.372583
+"905","Praterlaan 8, Amsterdam","1098 WR",475000,96,4,4.952066,52.344595
+"906","Langswater 576, Amsterdam","1069 EE",245000,61,3,4.788481,52.357145
+"907","Buiksloterweg 99, Amsterdam","1031 CJ",1250000,180,9,4.914882,52.388128
+"908","Geldersekade 37 II, Amsterdam","1011 EJ",695000,96,3,4.902359,52.37536
+"909","Quashibastraat, Amsterdam","1087 VS",348738,79,4,5.0165552,52.3505131
+"910","Quashibastraat, Amsterdam","1087 VS",348738,79,4,5.0165552,52.3505131
+"911","Valeriusstraat 193, Amsterdam","1075 EW",1698000,205,5,4.860637,52.351894
+"912","Tussen Meer 230, Amsterdam","1069 DW",275000,84,4,4.790574,52.356342
+"913","Willem Kraanstraat 38, Amsterdam","1063 MG",375000,118,4,4.82399,52.380639
+"914","Bastenakenstraat 122, Amsterdam","1066 JG",675000,129,4,4.819965,52.343878
+"915","Hagedoornplein 24, Amsterdam","1031 BV",849000,111,5,4.91369,52.38816
+"916","Bos en Lommerweg 356, Amsterdam","1061 DJ",539000,108,4,4.838534,52.379072
+"917","Eerste Looiersdwarsstraat 10 B, Amsterdam","1016 VM",525000,59,4,4.880977,52.368961
+"918","Kromme Waal 18, Amsterdam","1011 BS",1500000,194,9,4.902614,52.374848
+"919","Ringdijk, Amsterdam","1097 AE",295000,41,1,4.927757,52.354173
+"920","Ringdijk, Amsterdam","1097 AE",750000,117,1,4.927757,52.354173
+"921","Kleine Beerstraat 31, Amsterdam","1033 CP",350000,72,3,4.890612,52.414587
+"922","Stuyvesantstraat 33 II, Amsterdam","1058 AK",350000,51,3,4.856935,52.363256
+"923","John Blankensteinstraat 51, Amsterdam","1095 MB",599000,113,4,4.965731,52.375268
+"924","S. F. van Ossstraat 334, Amsterdam","1068 JS",3e+05,79,4,4.810678,52.355493
