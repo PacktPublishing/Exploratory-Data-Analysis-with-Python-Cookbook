@@ -1,8 +1,8 @@
 # Exploratory Data Analysis with Python Cookbook
 
-<a href="https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253?utm_source=github&utm_medium=repository&utm_campaign=9781789537253"><img src="https://content.packt.com/B11725/cover_image_small.png" alt="Exploratory Data Analysis with Python Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/exploratory-data-analysis-with-python-cookbook/9781803231105?utm_source=github&utm_medium=repository&utm_campaign=9781803231105"><img src="https://content.packt.com/B18160/cover_image_small.jpg" alt="Exploratory Data Analysis with Python Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Exploratory Data Analysis with Python Cookbook](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253?utm_source=github&utm_medium=repository&utm_campaign=9781789537253), published by Packt.
+This is the code repository for [Exploratory Data Analysis with Python Cookbook](https://www.packtpub.com/product/exploratory-data-analysis-with-python-cookbook/9781803231105?utm_source=github&utm_medium=repository&utm_campaign=9781803231105), published by Packt.
 
 **Over 50 recipes to analyze, visualize, and extract insights from structured and unstructured data**
 
